@@ -40,7 +40,7 @@ Runes 13			1						r25	3	r26	2	Runes 12	70																		0
 Runes 14			1						r27	3	r28	2	Runes 13	80																		0
 Runes 15			1						r29	3	r30	2	Runes 14	90																		0
 Runes 16			1						r31	3	r32	2	Runes 15	100																		0
-Runes 17			1						r33	1	Runes 16	5170																				0
+Runes 17			1						r33	1	Runes 16	110																				0
 Act 1 Junk			1						Potion 1	8	Misc 0	4	Ammo	4																		0
 Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																0
 Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																0

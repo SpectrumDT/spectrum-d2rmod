@@ -11,11 +11,11 @@ Fortified	0	1	1	14	40	10				0	103	red-mag	0	2	2									dblu	shld												0	0
 																																					0	0
 																																					0	0
 																																					0	0
-Jagged	0	1	1	1	7	1				0	106	dmg%	0	10	20										weap												0	0
-Deadly	0	1	1	5	11	3				0	106	dmg%	0	21	30										weap												0	0
-Vicious	0	1	1	8	17	6				0	106	dmg%	0	31	40										weap												0	0
-Brutal	0	1	1	14	23	10				0	106	dmg%	0	41	50										weap												0	0
-Massive	0	1	1	20	29	15				0	106	dmg%	0	51	65									dgld	weap												0	0
+Jagged	0	1	1	1	7	1				0	106	dmg%	0	10	20										weap							staf					0	0
+Deadly	0	1	1	5	11	3				0	106	dmg%	0	21	30										weap							staf					0	0
+Vicious	0	1	1	8	17	6				0	106	dmg%	0	31	40										weap							staf					0	0
+Brutal	0	1	1	14	23	10				0	106	dmg%	0	41	50										weap							staf					0	0
+Massive	0	1	1	20	29	15				0	106	dmg%	0	51	65									dgld	weap							staf					0	0
 Savage	0	1	1	26	33	19				0	106	dmg%	0	66	80									dgld	weap							staf	wand				0	0
 Merciless	0	1	1	32		24				0	106	dmg%	0	81	100									dgld	weap							staf	wand				0	0
 Vulpine	0	1	1	9		6				0	107	dmg-to-mana	0	10	10									cblu	shld	amul											0	0
@@ -25,19 +25,19 @@ Vulpine	0	1	1	9		6				0	107	dmg-to-mana	0	10	10									cblu	shld	amul										
 																																					0	0
 Tireless	0	1	1	14		10				0	109	regen-stam	0	50	50										boot												0	0
 Rugged	0	1	1	14		10				0	110	stam	0	5	10										boot	glov	belt	ring	amul								0	0
-Bronze	0	1	1	1	7	1				0	111	att	0	10	20										weap	ring	glov	amul									0	0
-Iron	0	1	1	4	9	3				0	111	att	0	21	40										weap	ring											0	0
-Steel	0	1	1	8	15	6				0	111	att	0	41	60										weap	ring											0	0
-Silver	0	1	1	12	20	9				0	111	att	0	61	80										weap	ring											0	0
+Bronze	0	1	1	1	7	1				0	111	att	0	10	20										weap	ring	glov	amul				staf					0	0
+Iron	0	1	1	4	9	3				0	111	att	0	21	40										weap	ring						staf					0	0
+Steel	0	1	1	8	15	6				0	111	att	0	41	60										weap	ring						staf					0	0
+Silver	0	1	1	12	20	9				0	111	att	0	61	80										weap	ring						staf					0	0
 																																					0	0
-Gold	0	1	1	17	25	12				0	111	att	0	81	100									lgld	weap												0	0
-Platinum	0	1	1	22	30	16				0	111	att	0	101	120									lgld	weap	ring											0	0
+Gold	0	1	1	17	25	12				0	111	att	0	81	100									lgld	weap							staf					0	0
+Platinum	0	1	1	22	30	16				0	111	att	0	101	120									lgld	weap	ring						staf					0	0
 Meteoric	0	1	1	27		20				0	111	att	0	121	150									lgld	weap	ring						staf	wand				0	0
-Sharp	0	1	1	5		3				0	112	att	0	10	20	dmg%	0	10	20						weap												0	0
-Fine	0	1	1	9	18	6				0	112	att	0	21	40	dmg%	0	21	30						weap												0	0
-Warrior's	0	1	1	15	24	11				0	112	att	0	41	60	dmg%	0	31	40						weap												0	0
-Soldier's	0	1	1	21	28	15				0	112	att	0	61	80	dmg%	0	41	50						weap												0	0
-Knight's	0	1	1	25	33	18				0	112	att	0	81	100	dmg%	0	51	65					dgld	weap												0	0
+Sharp	0	1	1	5		3				0	112	att	0	10	20	dmg%	0	10	20						weap							staf					0	0
+Fine	0	1	1	9	18	6				0	112	att	0	21	40	dmg%	0	21	30						weap							staf					0	0
+Warrior's	0	1	1	15	24	11				0	112	att	0	41	60	dmg%	0	31	40						weap							staf					0	0
+Soldier's	0	1	1	21	28	15				0	112	att	0	61	80	dmg%	0	41	50						weap							staf					0	0
+Knight's	0	1	1	25	33	18				0	112	att	0	81	100	dmg%	0	51	65					dgld	weap							staf					0	0
 Lord's	0	1	1	30	38	22				0	112	att	0	101	120	dmg%	0	66	80					dgld	weap							staf	wand				0	0
 King's	0	1	1	35		26				0	112	att	0	121	150	dmg%	0	81	100					dgld	weap							staf	wand				0	0
 Howling	0	1	1	16	16	12				0	113	howl	0	128	128									oran	weap							miss					0	0
@@ -541,25 +541,25 @@ Hawkeye	100	1		35	53	26				7	111	att/lvl	12											whit	weap							staf	wand	
 Eagleeye	100			50		37				1	111	att/lvl	16											whit	weap							staf	wand	orb			0	0
 Visionary	100	1	1	25		18				1	111	att%/lvl	2											whit	helm	miss											0	0
 Mnemonic	100	1	1	25		18				1	115	mana/lvl	6											cblu	helm												0	0
-Snowflake	100	1	1	25	38	18				3	137	cold-len		25	25	cold-min		6	9	cold-max		19	30	lblu	weap	circ											0	0
-Shivering	100	1	1	35	53	26				2	137	cold-len		50	50	cold-min		10	15	cold-max		31	45	lblu	weap												0	0
-Boreal	100	1	1	50	73	40				1	137	cold-len		75	75	cold-min		16	23	cold-max		46	90	lblu	weap												0	0
-Hibernal	100	1	1	70		60				1	137	cold-len		100	100	cold-min		24	45	cold-max		91	140	lblu	weap												0	0
-Ember	100	1	1	25	38	18				3	138	fire-min		16	25	fire-max		31	60					dred	weap	circ											0	0
-Smoldering	100	1	1	35	50	26				2	138	fire-min		26	50	fire-max		61	90					dred	weap												0	0
-Smoking	100	1	1	47	64	37				1	138	fire-min		51	80	fire-max		91	130					dred	weap												0	0
-Flaming	100	1	1	61	80	51				1	138	fire-min		81	120	fire-max		131	180					dred	weap												0	0
-Scorching	100	1	1	77		67				1	138	fire-min		121	170	fire-max		181	240					dred	weap												0	0
-Static	100	1	1	25	37	18				3	139	ltng-min		1	1	ltng-max		49	120					lyel	weap	circ											0	0
-Glowing	100	1	1	34	49	25				2	139	ltng-min		1	1	ltng-max		121	180					lyel	weap												0	0
-Buzzing	100	1	1	46	63	36				1	139	ltng-min		1	1	ltng-max		181	260					lyel	weap												0	0
-Arcing	100	1	1	60	79	50				1	139	ltng-min		1	1	ltng-max		261	360					lyel	weap												0	0
-Shocking	100	1	1	76		66				1	139	ltng-min		1	1	ltng-max		361	480					lyel	weap												0	0
-Septic	100	1	1	1	13	1				3	140	dmg-pois	50	31	31									dgrn	weap	circ											0	0
-Envenomed	100	1	1	10	23	7				2	140	dmg-pois	75	41	41									dgrn	weap												0	0
-Corosive	100	1	1	20	38	15				1	140	dmg-pois	100	205	205									dgrn	weap												0	0
-Toxic	100	1	1	35	53	26				1	140	dmg-pois	125	308	308									dgrn	weap												0	0
-Pestilent	100	1		50		37				1	140	dmg-pois	150	470	470									dgrn	weap												0	0
+Snowflake	100	1	1	25	38	18				3	137	cold-len		25	25	cold-min		6	9	cold-max		19	30	lblu	weap	circ						staf					0	0
+Shivering	100	1	1	35	53	26				2	137	cold-len		50	50	cold-min		10	15	cold-max		31	45	lblu	weap							staf					0	0
+Boreal	100	1	1	50	73	40				1	137	cold-len		75	75	cold-min		16	23	cold-max		46	90	lblu	weap							staf					0	0
+Hibernal	100	1	1	70		60				1	137	cold-len		100	100	cold-min		24	45	cold-max		91	140	lblu	weap							staf					0	0
+Ember	100	1	1	25	38	18				3	138	fire-min		16	25	fire-max		31	60					dred	weap	circ						staf					0	0
+Smoldering	100	1	1	35	50	26				2	138	fire-min		26	50	fire-max		61	90					dred	weap							staf					0	0
+Smoking	100	1	1	47	64	37				1	138	fire-min		51	80	fire-max		91	130					dred	weap							staf					0	0
+Flaming	100	1	1	61	80	51				1	138	fire-min		81	120	fire-max		131	180					dred	weap							staf					0	0
+Scorching	100	1	1	77		67				1	138	fire-min		121	170	fire-max		181	240					dred	weap							staf					0	0
+Static	100	1	1	25	37	18				3	139	ltng-min		1	1	ltng-max		49	120					lyel	weap	circ						staf					0	0
+Glowing	100	1	1	34	49	25				2	139	ltng-min		1	1	ltng-max		121	180					lyel	weap							staf					0	0
+Buzzing	100	1	1	46	63	36				1	139	ltng-min		1	1	ltng-max		181	260					lyel	weap							staf					0	0
+Arcing	100	1	1	60	79	50				1	139	ltng-min		1	1	ltng-max		261	360					lyel	weap							staf					0	0
+Shocking	100	1	1	76		66				1	139	ltng-min		1	1	ltng-max		361	480					lyel	weap							staf					0	0
+Septic	100	1	1	1	13	1				3	140	dmg-pois	50	31	31									dgrn	weap	circ						staf					0	0
+Envenomed	100	1	1	10	23	7				2	140	dmg-pois	75	41	41									dgrn	weap							staf					0	0
+Corosive	100	1	1	20	38	15				1	140	dmg-pois	100	205	205									dgrn	weap							staf					0	0
+Toxic	100	1	1	35	53	26				1	140	dmg-pois	125	308	308									dgrn	weap							staf					0	0
+Pestilent	100	1		50		37				1	140	dmg-pois	150	470	470									dgrn	weap							staf					0	0
 Maiden's	1	1	1	36		27	ama			4	125	ama		1	1										amul	circ											0	0
 Valkyrie's	1	1	1	90		67	ama			2	125	ama		2	2									cgrn	amul	circ											0	0
 Maiden's	1	1	1	30		22	ama			4	125	ama		1	1										miss	spea											0	0

@@ -39,54 +39,50 @@ of Psychic Hammer	100	1	1	1		1				1	400	oskill	Psychic Hammer	1	3										armo	
 of Cloak of Shadows	100	1	1	12		12				1	400	oskill	Cloak of Shadows	1	4										armo	weap											0	0
 of Fade	100	1	1	18		18				1	400	oskill	Fade	1	4										armo	weap											0	0
 of Shadow Warrior	100	1	1	18		18				1	400	oskill	Shadow Warrior	1	4										armo	weap											0	0
+of Cloak of Shadows	100	1	1	18		18				1	401	oskill	Cloak of Shadows	1	4	oskill	Psychic Hammer	1	3	oskill	Fade	1	4		armo	weap											0	0
+of Shadow Warrior	100	1	1	18		18				1	401	oskill	Shadow Warrior	1	12										armo	weap											0	0
+of Shadow Master	100	1	1	30		30				1	401	oskill	Shadow Master	1	4										armo	weap											0	0
+of Psychic Hammer	100	1	1	60		60				1	402	oskill	Cloak of Shadows	1	4	oskill	Psychic Hammer	1	3	oskill	Fade	1	4		armo	weap											0	0
+of Shadow Master	100	1	1	60		60				1	402	oskill	Shadow Master	1	8	oskill	Shadow Warrior	1	12						armo	weap											0	0
 of Raise Skeletons	100	1	1	6		6				1	410	oskill	Raise Skeleton	1	4										armo	weap											0	0
-of Raise Skeletons	100	1	1	12		12				1	410	oskill	Raise Skeleton	1	6	oskill	Skeleton Mastery	1	6						armo	weap											0	0
-of Raise Skeletons	100	1	0	24		24				1	410	oskill	Raise Skeleton	1	10	oskill	Skeleton Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
+of Raise Skeletons	100	1	1	12		12				1	410	oskill	Raise Skeleton	1	4	oskill	Skeleton Mastery	1	4						armo	weap											0	0
+of Raise Skeletons	100	1	0	24		24				1	410	oskill	Raise Skeleton	1	8	oskill	Skeleton Mastery	1	4	oskill	Summon Resist	1	3		armo	weap											0	0
+of Raise Skeletons	100	1	1	24		24				1	411	oskill	Raise Skeleton	1	8	oskill	Skeleton Mastery	1	4	oskill	Summon Resist	1	3		armo	weap											0	0
+of Raise Skeletons	100	1	1	36		36				1	411	oskill	Raise Skeleton	1	10	oskill	Skeleton Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
+of Raise Skeletons	100	1	0	48		48				1	411	oskill	Raise Skeleton	1	12	oskill	Skeleton Mastery	1	10	oskill	Summon Resist	1	6		armo	weap											0	0
+of Raise Skeletons	100	1	1	60		60				1	412	oskill	Raise Skeleton	1	14	oskill	Skeleton Mastery	1	12	oskill	Summon Resist	1	3		armo	weap											0	0
+of Raise Skeletons	100	1	1	72		72				1	412	oskill	Raise Skeleton	1	16	oskill	Skeleton Mastery	1	15	oskill	Summon Resist	1	6		armo	weap											0	0
+of Raise Skeletons	100	1	0	84		84				1	412	oskill	Raise Skeleton	1	20	oskill	Skeleton Mastery	1	18	oskill	Summon Resist	1	6		armo	weap											0	0
 of Oak Sage	100	1	1	6		6				1	420	oskill	Oak Sage	1	4										armo	weap											0	0
+of Oak Sage	100	1	1	36		36				1	421	oskill	Oak Sage	1	15										armo	weap											0	0
 of Spirit Wolf	100	1	1	6		6				1	420	oskill	Summon Spirit Wolf	1	4										armo	weap											0	0
 of Dire Wolf	100	1	1	18		18				1	420	oskill	Summon Fenris	1	4										armo	weap											0	0
 of Grizzly	100	1	1	30		30				1	420	oskill	Summon Grizzly	1	4										armo	weap											0	0
-of Clay Golem	100	1	1	18		18				1	430	oskill	Clay Golem	1	8										armo	weap											0	0
-of Clay Golem	100	1	1	24		24				1	430	oskill	Clay Golem	1	10	oskill	Golem Mastery	1	6						armo	weap											0	0
-of Clay Golem	100	1	0	30		30				1	430	oskill	Clay Golem	1	14	oskill	Golem Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
+of Grizzly	100	1	1	36		36				1	421	oskill	Summon Spirit Wolf	1	6	oskill	Summon Fenris	1	6	oskill	Summon Grizzly	1	6		armo	weap											0	0
+of Grizzly	100	1	0	48		48				1	421	oskill	Oak Sage	1	8	oskill	Summon Fenris	1	8	oskill	Summon Grizzly	1	8		armo	weap											0	0
+of Grizzly	100	1	1	60		60				1	421	oskill	Oak Sage	1	10	oskill	Summon Fenris	1	10	oskill	Summon Grizzly	1	10		armo	weap											0	0
+of Grizzly	100	1	1	72		72				1	422	oskill	Oak Sage	1	12	oskill	Summon Fenris	1	12	oskill	Summon Grizzly	1	12		armo	weap											0	0
+of Grizzly	100	1	1	84		84				1	422	oskill	Oak Sage	1	15	oskill	Summon Fenris	1	15	oskill	Summon Grizzly	1	15		armo	weap											0	0
+of Clay Golem	100	1	1	18		18				1	430	oskill	Clay Golem	1	4										armo	weap											0	0
+of Clay Golem	100	1	1	24		24				1	430	oskill	Clay Golem	1	6	oskill	Golem Mastery	1	5						armo	weap											0	0
+of Clay Golem	100	1	0	30		30				1	430	oskill	Clay Golem	1	8	oskill	Golem Mastery	1	6	oskill	Summon Resist	1	2		armo	weap											0	0
+of Clay Golem	100	1	1	36		36				1	431	oskill	Clay Golem	1	10	oskill	Golem Mastery	1	7	oskill	Summon Resist	1	3		armo	weap											0	0
+of Clay Golem	100	1	1	48		48				1	431	oskill	Clay Golem	1	12	oskill	Golem Mastery	1	8	oskill	Summon Resist	1	4		armo	weap											0	0
+of Clay Golem	100	1	0	60		60				1	431	oskill	Clay Golem	1	14	oskill	Golem Mastery	1	9	oskill	Summon Resist	1	5		armo	weap											0	0
+of Clay Golem	100	1	1	60		60				1	432	oskill	Clay Golem	1	16	oskill	Golem Mastery	1	10	oskill	Summon Resist	1	6		armo	weap											0	0
+of Clay Golem	100	1	1	72		72				1	432	oskill	Clay Golem	1	18	oskill	Golem Mastery	1	11	oskill	Summon Resist	1	7		armo	weap											0	0
+of Clay Golem	100	1	0	84		84				1	432	oskill	Clay Golem	1	20	oskill	Golem Mastery	1	12	oskill	Summon Resist	1	8		armo	weap											0	0
 of Blood Golem	100	1	1	18		18				1	430	oskill	BloodGolem	1	4										armo	weap											0	0
-of Blood Golem	100	1	1	24		24				1	430	oskill	BloodGolem	1	6	oskill	Golem Mastery	1	6						armo	weap											0	0
-of Blood Golem	100	1	0	30		30				1	430	oskill	BloodGolem	1	10	oskill	Golem Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
-of Decoy	100	1	1	18		18				1	440	oskill	Dopplezon	1	4										armo	weap											0	0
+of Blood Golem	100	1	1	24		24				1	430	oskill	BloodGolem	1	6	oskill	Golem Mastery	1	5						armo	weap											0	0
+of Blood Golem	100	1	0	30		30				1	430	oskill	BloodGolem	1	8	oskill	Golem Mastery	1	6	oskill	Summon Resist	1	2		armo	weap											0	0
+of Blood Golem	100	1	1	36		36				1	431	oskill	BloodGolem	1	10	oskill	Golem Mastery	1	7	oskill	Summon Resist	1	3		armo	weap											0	0
+of Blood Golem	100	1	1	48		48				1	431	oskill	BloodGolem	1	12	oskill	Golem Mastery	1	8	oskill	Summon Resist	1	4		armo	weap											0	0
+of Blood Golem	100	1	0	60		60				1	431	oskill	BloodGolem	1	14	oskill	Golem Mastery	1	9	oskill	Summon Resist	1	5		armo	weap											0	0
+of Blood Golem	100	1	1	60		60				1	432	oskill	BloodGolem	1	16	oskill	Golem Mastery	1	10	oskill	Summon Resist	1	6		armo	weap											0	0
+of Blood Golem	100	1	1	72		72				1	432	oskill	BloodGolem	1	18	oskill	Golem Mastery	1	11	oskill	Summon Resist	1	7		armo	weap											0	0
+of Blood Golem	100	1	0	84		84				1	432	oskill	BloodGolem	1	20	oskill	Golem Mastery	1	12	oskill	Summon Resist	1	8		armo	weap											0	0
+of Decoy	100	1	1	24		24				1	440	oskill	Dopplezon	1	4										armo	weap											0	0
 of Valkyrie	100	1	1	30		30				1	440	oskill	Valkyrie	1	4										armo	weap											0	0
-of Psychic Hammer	100	1	1	1		1				1	401	oskill	Psychic Hammer	1	3										armo	weap											0	0
-of Cloak of Shadows	100	1	1	12		12				1	401	oskill	Cloak of Shadows	1	4										armo	weap											0	0
-of Fade	100	1	1	18		18				1	401	oskill	Fade	1	4										armo	weap											0	0
-of Raise Skeletons	100	1	1	6		6				1	411	oskill	Raise Skeleton	1	4										armo	weap											0	0
-of Raise Skeletons	100	1	1	12		12				1	411	oskill	Raise Skeleton	1	6	oskill	Skeleton Mastery	1	6						armo	weap											0	0
-of Raise Skeletons	100	1	0	24		24				1	411	oskill	Raise Skeleton	1	10	oskill	Skeleton Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
-of Oak Sage	100	1	1	6		6				1	421	oskill	Oak Sage	1	4										armo	weap											0	0
-of Spirit Wolf	100	1	1	6		6				1	421	oskill	Summon Spirit Wolf	1	4										armo	weap											0	0
-of Dire Wolf	100	1	1	18		18				1	421	oskill	Summon Fenris	1	4										armo	weap											0	0
-of Grizzly	100	1	1	30		30				1	421	oskill	Summon Grizzly	1	4										armo	weap											0	0
-of Clay Golem	100	1	1	18		18				1	431	oskill	Clay Golem	1	8										armo	weap											0	0
-of Clay Golem	100	1	1	24		24				1	431	oskill	Clay Golem	1	10	oskill	Golem Mastery	1	6						armo	weap											0	0
-of Clay Golem	100	1	0	30		30				1	431	oskill	Clay Golem	1	14	oskill	Golem Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
-of Blood Golem	100	1	1	18		18				1	431	oskill	BloodGolem	1	4										armo	weap											0	0
-of Blood Golem	100	1	1	24		24				1	431	oskill	BloodGolem	1	6	oskill	Golem Mastery	1	6						armo	weap											0	0
-of Blood Golem	100	1	0	30		30				1	431	oskill	BloodGolem	1	10	oskill	Golem Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
-of Decoy	100	1	1	18		18				1	441	oskill	Dopplezon	1	4										armo	weap											0	0
-of Valkyrie	100	1	1	30		30				1	441	oskill	Valkyrie	1	4										armo	weap											0	0
-of Psychic Hammer	100	1	1	1		1				1	402	oskill	Psychic Hammer	1	3										armo	weap											0	0
-of Cloak of Shadows	100	1	1	12		12				1	402	oskill	Cloak of Shadows	1	4										armo	weap											0	0
-of Fade	100	1	1	18		18				1	402	oskill	Fade	1	4										armo	weap											0	0
-of Raise Skeletons	100	1	1	6		6				1	412	oskill	Raise Skeleton	1	4										armo	weap											0	0
-of Raise Skeletons	100	1	1	12		12				1	412	oskill	Raise Skeleton	1	6	oskill	Skeleton Mastery	1	6						armo	weap											0	0
-of Raise Skeletons	100	1	0	24		24				1	412	oskill	Raise Skeleton	1	10	oskill	Skeleton Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
-of Oak Sage	100	1	1	6		6				1	422	oskill	Oak Sage	1	4										armo	weap											0	0
-of Spirit Wolf	100	1	1	6		6				1	422	oskill	Summon Spirit Wolf	1	4										armo	weap											0	0
-of Dire Wolf	100	1	1	18		18				1	422	oskill	Summon Fenris	1	4										armo	weap											0	0
-of Grizzly	100	1	1	30		30				1	422	oskill	Summon Grizzly	1	4										armo	weap											0	0
-of Clay Golem	100	1	1	18		18				1	432	oskill	Clay Golem	1	8										armo	weap											0	0
-of Clay Golem	100	1	1	24		24				1	432	oskill	Clay Golem	1	10	oskill	Golem Mastery	1	6						armo	weap											0	0
-of Clay Golem	100	1	0	30		30				1	432	oskill	Clay Golem	1	14	oskill	Golem Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
-of Blood Golem	100	1	1	18		18				1	432	oskill	BloodGolem	1	4										armo	weap											0	0
-of Blood Golem	100	1	1	24		24				1	432	oskill	BloodGolem	1	6	oskill	Golem Mastery	1	6						armo	weap											0	0
-of Blood Golem	100	1	0	30		30				1	432	oskill	BloodGolem	1	10	oskill	Golem Mastery	1	6	oskill	Summon Resist	1	6		armo	weap											0	0
-of Decoy	100	1	1	18		18				1	442	oskill	Dopplezon	1	4										armo	weap											0	0
-of Valkyrie	100	1	1	30		30				1	442	oskill	Valkyrie	1	4										armo	weap											0	0
+of Valkyrie	100	1	1	42		42				1	441	oskill	Valkyrie	1	10	oskill	Dopplezon	1	5						armo	weap											0	0
+of Valkyrie	100	1	1	72		72				1	442	oskill	Valkyrie	1	15	oskill	Dopplezon	1	10						armo	weap											0	0
+of Valkyrie	100	1	0	84		84				1	442	oskill	Valkyrie	1	20	oskill	Dopplezon	1	15						armo	weap											0	0

@@ -108,5 +108,6 @@ Long Staff	stf2	staf		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	1	sor		0					
 Gnarled Staff	stf3	staf		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	1	sor		0							weap	0
 Battle Staff	stf4	staf		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	1	sor		0							weap	0
 War Staff	stf5	staf		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	1	sor		0							weap	0
-Crystal Sword	crys	swor		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Scythe	scyt	pole		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Crystal Sword	crys	swor		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3	sor		0							weap	0
+Scythe	scyt	pole		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3	nec		0							weap	0
+Bone Armor	boar			1	1					0	0	0	0		1	0	0	3	25	4	40	6	0	3	nec		0							armo	0

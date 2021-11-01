@@ -759,3 +759,7 @@ of Raise Skeletons	100	1	0	48	72	48				4	450	oskill	Raise Skeleton	1	12									
 of Raise Skeletons	100	1	1	60	84	60				4	450	oskill	Raise Skeleton	1	14										stf2												0	0
 of Raise Skeletons	100	1	1	72		72				4	450	oskill	Raise Skeleton	1	16										stf2												0	0
 of Raise Skeletons	100	1	0	84		84				4	450	oskill	Raise Skeleton	1	20										stf2												0	0
+of Teleportation	100	1	1	18	30	18				4	500	oskill	Teleport	1	4										crys	circ	lipl										0	0
+of Enchant	100	1	1	18	30	18				4	500	oskill	Enchant	1	4										crys	circ	lipl										0	0
+of Sorcery	100	1	1	24	42	24				4	500	oskill	Teleport	1	4	oskill	Enchant	0	4	oskill	Frozen Armor	0	4		crys	circ	lipl										0	0
+of Sorcery	100	1	1	36		36				4	500	oskill	Teleport	1	8	oskill	Enchant	0	8	oskill	Frozen Armor	0	8		crys	circ	lipl										0	0

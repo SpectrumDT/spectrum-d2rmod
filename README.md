@@ -23,13 +23,15 @@ If the above is not clear, try this YouTube video tutorial by HighTechLowIQ: htt
 * A number of other item types can spawn with new skill bonuses (including circlets, bone helms and scythes).
 * Improved rune drop drates.
 * Better base items drop, but fewer items drop overall.
+* _Implemented by midlife-slacker_: Low-level affixes do not spawn on high-level items.
 
 ### Mercenaries
 * Cold Iron Wolf now casts Glacial Spike, Frozen Orb and Decrepify.
 * Fire Iron Wolf replaced by Penitent, which looks like a Doom Knight and casts Bone Spear and Amplify Damage.
 * Lightning Iron Wolf replaced by Exorcist, which looks like a Cantor and casts Fist of the Heavens and Confuse.
 
-### Incorporates the Basic QoL mod by Cyhyraethz:
+### Incorporates the Basic QoL mod by Cyhyraethz
+Original version: https://github.com/cyhyraethz/d2r-basic-qol 
 * Increased stack size for keys, tomes, and quivers
 * Additional spells can be cast in town (e.g. Teleport)
 * Always get quest drops from Andariel (Quest Bug)

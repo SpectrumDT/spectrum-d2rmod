@@ -1,6 +1,10 @@
 # Spectrum's Mod for Diablo II: Resurrected
 
-## Installation instructions: 
+## How to download
+
+If you are reading this on the GitHub web page (https://github.com/SpectrumDT/spectrum-d2rmod), then click the arrow next to "Code" above and select "Download ZIP".
+
+## Installation instructions
 
 1. Unzip and place under `Diablo II Resurrected\mods\spectrum`. 
 2. I.e., the TXT files should be under `Diablo II Resurrected\mods\spectrum\spectrum.mpq\data\global\excel`.

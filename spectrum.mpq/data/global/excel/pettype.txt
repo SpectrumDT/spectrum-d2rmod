@@ -19,3 +19,4 @@ shadowwarrior		0	1		1	1	1	UiShadowUI	1	1	shadowassassin
 assassintrap		0		1															
 pettrap		0		1															
 hydra		0		1															
+scimitarminion		0	1		1	1	1	FlyingScimitar	1	2	metalgolumicon								

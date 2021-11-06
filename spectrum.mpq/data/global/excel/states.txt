@@ -190,3 +190,4 @@ abyssknightform	187	3			1						1																																							14							
 succubusform	188	3			1						1																																							14													1	469						0
 gloamform	189	3			1						1																																							14													1	118						0
 cantorform	190	3			1						1																																							14													1	238						0
+scimitarminion	191																																																							70		255	255	255										0

@@ -16,7 +16,9 @@ If the above is not clear, try this YouTube video tutorial by HighTechLowIQ: htt
 ### Monsters
 * Many small changes to which monsters spawn in which areas.
 * Removed all 'guest monsters' in Act IV except a few which I like.
-* Council Members and Minions of Destruction are now regular monsters that spawn in certain areas of Acts III-V.
+* Council Members are now regular monsters that spawn in certain areas of Acts III-IV.
+* Minions of Destruction are now regular monsters that spawn in certain areas of Act V.
+* Added the Vortex Lord to Act IV. It looks like Izual but is a regular monster and quite tough.
 
 ### Items
 * Staves spawn with inherent bonuses to various skills, mainly summoning.

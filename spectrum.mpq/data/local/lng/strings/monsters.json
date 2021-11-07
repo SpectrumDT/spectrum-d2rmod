@@ -8991,5 +8991,10 @@
     "ptBR": "Cadáver de %s",
     "ruRU": "%s – труп",
     "zhCN": "%s残骸"
+  },
+  {
+    "id": 30000,
+    "Key": "VortexLord",
+    "enUS": "Vortex Lord"
   }
 ]

@@ -35292,22 +35292,22 @@
     "zhCN": "敌人防御: %+d" 
   }, 
   { 
-    "id": 26344, 
+    "id": 30001, 
     "Key": "skillnamesummonscimitar", 
     "enUS": "Summon Scimitar"
   }, 
   { 
-    "id": 26345, 
+    "id": 30002, 
     "Key": "skilldescsummonscimitarshort", 
     "enUS": "summon a flying scimitar\nto fight for you"
   },
   { 
-    "id": 26346, 
+    "id": 30003, 
     "Key": "ESkillScimitars", 
     "enUS": "Scimitars: %d"
   }, 
   { 
-    "id": 26347, 
+    "id": 30004, 
     "Key": "StrSkillPhysicalDamage", 
     "enUS": "Physical Damage: %d-%d"
   }

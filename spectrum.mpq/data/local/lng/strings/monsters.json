@@ -8996,5 +8996,10 @@
     "id": 30000,
     "Key": "VortexLord",
     "enUS": "Vortex Lord"
+  },
+  {
+    "id": 30005,
+    "Key": "Advocate",
+    "enUS": "Advocate"
   }
 ]

@@ -9001,5 +9001,15 @@
     "id": 30005,
     "Key": "Advocate",
     "enUS": "Advocate"
+  },
+  {
+    "id": 30006,
+    "Key": "Harbinger of Destruction",
+    "enUS": "Harbinger of Destruction"
+  },
+  {
+    "id": 30007,
+    "Key": "Avatar of Destruction",
+    "enUS": "Avatar of Destruction"
   }
 ]

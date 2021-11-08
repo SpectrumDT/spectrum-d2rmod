@@ -20,7 +20,9 @@ Character save files are stored in a separate folder, but you're free to move or
 * Removed all 'guest monsters' in Act IV except a few which I like.
 * Council Members are now regular monsters that spawn in certain areas of Acts III-IV.
 * Minions of Destruction are now regular monsters that spawn in certain areas of Act V.
-* Added the **Vortex Lord** to Act IV. It looks like Izual but is a regular monster and quite tough.
+* Added two new monster types: 
+  * The **Vortex Lord** looks like Izual and spawns in Act IV and V.
+  * The **Advocate** looks like the Summoner and spawns in Act V.
 
 ### Skills
 * Sorceress's Thunderstorm skill removed and replaced with **Summon Scimitar**, which summons a Flying Scimitar minion. Its stats are based on the Druid's Dire Wolf.

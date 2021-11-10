@@ -40,6 +40,7 @@ Character save files are stored in a separate folder, but you're free to move or
 * Improved rune drop drates.
 * Better base items drop, but fewer items drop overall.
 * _Implemented by midlife-slacker_: Low-level affixes do not spawn on high-level items.
+* _Incorporates the 'Splash damage to melee' mod by deadjack_: Akara sells a charm that gives splash damage to melee attacks.
 
 ### Incorporates the Basic QoL mod by Cyhyraethz
 Original version: https://github.com/cyhyraethz/d2r-basic-qol 

@@ -695,5 +695,7 @@
     "vampiremeteorfire": "ground_fire_medium",
     "strafearrow": "arrow",
     "strafebolt": "x_bow_bolt",
-    "recklessattacksmissile": "expansion_shockwave"
+    "recklessattacksmissile": "expansion_shockwave",
+    "proc_splashdamage": "blood_large_02",
+    "proc_splashinit": "blood_large_02"
 }

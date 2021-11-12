@@ -20040,7 +20040,7 @@ Missile = 'proc_splashdamage'
 --pDoFunc = { srv = 1, clt = 1 }
 Vel = 24
 MaxVel = 24
-Range = "skill('Sword Mastery'.blvl)/4"
+Range = "skill('Sword Mastery'.blvl)/5"
 Light = 4
 Flicker = 2
 --RGB = { red = 255, green = 255, blue = 255 }

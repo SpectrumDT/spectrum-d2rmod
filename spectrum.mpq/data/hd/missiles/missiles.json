@@ -696,6 +696,6 @@
     "strafearrow": "arrow",
     "strafebolt": "x_bow_bolt",
     "recklessattacksmissile": "expansion_shockwave",
-    "proc_splashdamage": "firebolt",
+    "proc_splashdamage": "expansion_shockwave",
     "proc_splashinit": "firebolt"
 }

@@ -20040,9 +20040,7 @@ Missile = 'proc_splashdamage'
 --pDoFunc = { srv = 1, clt = 1 }
 Vel = 24
 MaxVel = 24
-Range = "skill('Sword Mastery'.blvl)/4"
-Light = 4
-Flicker = 2
+Range = "skill('Sword Mastery'.blvl)/16"
 --RGB = { red = 255, green = 255, blue = 255 }
 InitSteps = 0
 Activate = 0
@@ -20054,7 +20052,6 @@ AnimSpeed = 16
 CollideType = 3
 CollideKill = 0
 LastCollide = 1
-ClientCol = 1
 NextHit = 1
 NextDelay = 1
 Size = 1

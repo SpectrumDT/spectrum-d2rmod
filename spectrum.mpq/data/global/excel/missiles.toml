@@ -20040,7 +20040,7 @@ Missile = 'proc_splashdamage'
 --pDoFunc = { srv = 1, clt = 1 }
 Vel = 24
 MaxVel = 24
-Range = "skill('Sword Mastery'.blvl)*3"
+Range = 5
 --RGB = { red = 255, green = 255, blue = 255 }
 InitSteps = 0
 Activate = 0
@@ -20063,6 +20063,7 @@ ResultFlags = 4
 HitShift = 8
 SrcDamage = 64
 NumDirections = 32
+ExplosionMissile = 'explodingarrowexp'
 '*eol' = 0
 
 [[rows]]
@@ -20094,5 +20095,6 @@ ResultFlags = 4
 HitShift = 8
 SrcDamage = 0
 NumDirections = 32
+ExplosionMissile = 'explodingarrowexp'
 '*eol' = 0
 

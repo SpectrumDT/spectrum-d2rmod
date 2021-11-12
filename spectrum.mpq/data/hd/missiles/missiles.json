@@ -696,6 +696,6 @@
     "strafearrow": "arrow",
     "strafebolt": "x_bow_bolt",
     "recklessattacksmissile": "expansion_shockwave",
-    "proc_splashdamage": "GreaterMummyBreath",
+    "proc_splashdamage": "greater_mummy_breath",
     "proc_splashinit": "firebolt"
 }

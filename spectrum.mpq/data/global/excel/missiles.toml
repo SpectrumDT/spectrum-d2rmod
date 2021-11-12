@@ -20065,7 +20065,7 @@ Trans = 1
 ResultFlags = 4
 HitShift = 8
 SrcDamage = 64
-NumDirections = 32
+NumDirections = "skill('Sword Mastery'.blvl)"
 ExplosionMissile = 'explodingarrowexp'
 '*eol' = 0
 

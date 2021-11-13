@@ -236,12 +236,12 @@ Act 4 Chest A	6	26	4					100	gld	12	Act 4 Junk	7	Act 4 Equip A	7	Act 4 Good	2			
 Act 4 Chest B	6	28	4					100	gld	12	Act 4 Junk	7	Act 4 Equip B	7	Act 4 Good	2																0
 Act 4 Chest C	6	30	4					100	gld	12	Act 4 Junk	7	Act 4 Equip B	7	Act 4 Good	2																0
 Act 5 Chest A	6	32	4					100	gld	11	Act 5 Junk	6	Act 5 Equip A	6	Act 5 Good	2																0
-Act 5 Chest B	6	34	4					100	gld	11	Act 5 Junk	6	Act 5 Equip B	6	Act 5 Good	2																0
-Act 5 Chest C	6	36	4					100	gld	11	Act 5 Junk	6	Act 5 Equip B	6	Act 5 Good	2																0
-Act 1 (N) Chest A	6	38	4					120	gld	10	Act 1 (N) Junk	5	Act 1 (N) Equip A	5	Act 1 (N) Good	3																0
-Act 1 (N) Chest B	6	40	4					120	gld	10	Act 1 (N) Junk	5	Act 1 (N) Equip B	5	Act 1 (N) Good	3																0
-Act 1 (N) Chest C	6	42	4					120	gld	10	Act 1 (N) Junk	5	Act 1 (N) Equip B	5	Act 1 (N) Good	3																0
-Act 2 (N) Chest A	6	44	4					120	gld	10	Act 2 (N) Junk	5	Act 2 (N) Equip A	5	Act 2 (N) Good	3																0
+Act 1 (N) Chest A	6	34	4					100	gld	11	Act 5 Junk	6	Act 5 Equip B	6	Act 5 Good	2																0
+Act 1 (N) Chest B	6	36	4					100	gld	11	Act 5 Junk	6	Act 5 Equip B	6	Act 5 Good	2																0
+Act 5 Chest B	6	38	4					120	gld	10	Act 1 (N) Junk	5	Act 1 (N) Equip A	5	Act 1 (N) Good	3																0
+Act 1 (N) Chest C	6	40	4					120	gld	10	Act 1 (N) Junk	5	Act 1 (N) Equip B	5	Act 1 (N) Good	3																0
+Act 2 (N) Chest A	6	42	4					120	gld	10	Act 1 (N) Junk	5	Act 1 (N) Equip B	5	Act 1 (N) Good	3																0
+Act 5 Chest C	6	44	4					120	gld	10	Act 2 (N) Junk	5	Act 2 (N) Equip A	5	Act 2 (N) Good	3																0
 Act 2 (N) Chest B	6	46	4					120	gld	10	Act 2 (N) Junk	5	Act 2 (N) Equip B	5	Act 2 (N) Good	3																0
 Act 2 (N) Chest C	6	48	4					120	gld	10	Act 2 (N) Junk	5	Act 2 (N) Equip B	5	Act 2 (N) Good	3																0
 Act 3 (N) Chest A	6	50	4					120	gld	10	Act 3 (N) Junk	5	Act 3 (N) Equip A	5	Act 3 (N) Good	3																0
@@ -251,12 +251,12 @@ Act 4 (N) Chest A	6	56	4					120	gld	10	Act 4 (N) Junk	5	Act 4 (N) Equip A	5	Act
 Act 4 (N) Chest B	6	58	4					120	gld	10	Act 4 (N) Junk	5	Act 4 (N) Equip B	5	Act 4 (N) Good	3																0
 Act 4 (N) Chest C	6	60	4					120	gld	10	Act 4 (N) Junk	5	Act 4 (N) Equip C	5	Act 4 (N) Good	3																0
 Act 5 (N) Chest A	6	62	4					120	gld	10	Act 5 (N) Junk	5	Act 5 (N) Equip A	5	Act 5 (N) Good	3																0
-Act 5 (N) Chest B	6	64	4					120	gld	10	Act 5 (N) Junk	5	Act 5 (N) Equip B	5	Act 5 (N) Good	3																0
-Act 5 (N) Chest C	6	66	4					120	gld	10	Act 5 (N) Junk	5	Act 5 (N) Equip B	5	Act 5 (N) Good	3																0
-Act 1 (H) Chest A	6	68	4					120	gld	10	Act 1 (H) Junk	5	Act 1 (H) Equip A	5	Act 1 (H) Good	3																0
-Act 1 (H) Chest B	6	70	4					120	gld	10	Act 1 (H) Junk	5	Act 1 (H) Equip B	5	Act 1 (H) Good	3																0
-Act 1 (H) Chest C	6	71	4					120	gld	10	Act 1 (H) Junk	5	Act 1 (H) Equip B	5	Act 1 (H) Good	3																0
-Act 2 (H) Chest A	6	72	4					120	gld	10	Act 2 (H) Junk	5	Act 2 (H) Equip A	5	Act 2 (H) Good	3																0
+Act 1 (H) Chest A	6	64	4					120	gld	10	Act 5 (N) Junk	5	Act 5 (N) Equip B	5	Act 5 (N) Good	3																0
+Act 1 (H) Chest B	6	66	4					120	gld	10	Act 5 (N) Junk	5	Act 5 (N) Equip B	5	Act 5 (N) Good	3																0
+Act 5 (N) Chest B	6	68	4					120	gld	10	Act 1 (H) Junk	5	Act 1 (H) Equip A	5	Act 1 (H) Good	3																0
+Act 1 (H) Chest C	6	70	4					120	gld	10	Act 1 (H) Junk	5	Act 1 (H) Equip B	5	Act 1 (H) Good	3																0
+Act 2 (H) Chest A	6	71	4					120	gld	10	Act 1 (H) Junk	5	Act 1 (H) Equip B	5	Act 1 (H) Good	3																0
+Act 5 (N) Chest C	6	72	4					120	gld	10	Act 2 (H) Junk	5	Act 2 (H) Equip A	5	Act 2 (H) Good	3																0
 Act 2 (H) Chest B	6	74	4					120	gld	10	Act 2 (H) Junk	5	Act 2 (H) Equip B	5	Act 2 (H) Good	3																0
 Act 2 (H) Chest C	6	75	4					120	gld	10	Act 2 (H) Junk	5	Act 2 (H) Equip B	5	Act 2 (H) Good	3																0
 Act 3 (H) Chest A	6	76	4					120	gld	10	Act 3 (H) Junk	5	Act 3 (H) Equip A	5	Act 3 (H) Good	3																0
@@ -280,12 +280,12 @@ Act 3 H2H C	7	24	1					100	gld	15	Act 3 Equip C	12	Act 3 Junk	15	Act 3 Good	2			
 Act 4 H2H A	7	26	1					100	gld	15	Act 4 Equip A	12	Act 4 Junk	15	Act 4 Good	2																0
 Act 4 H2H B	7	29	1					100	gld	15	Act 4 Equip B	12	Act 4 Junk	15	Act 4 Good	2																0
 Act 5 H2H A	7	32	1					100	gld	12	Act 5 Equip A	10	Act 5 Junk	15	Act 5 Good	2																0
-Act 5 H2H B	7	34	1					100	gld	12	Act 5 Equip B	10	Act 5 Junk	15	Act 5 Good	2																0
-Act 5 H2H C	7	36	1					100	gld	12	Act 5 Equip C	10	Act 5 Junk	15	Act 5 Good	2																0
-Act 1 (N) H2H A	7	38	1					120	gld	10	Act 1 (N) Equip A	8	Act 1 (N) Junk	15	Act 1 (N) Good	3																0
-Act 1 (N) H2H B	7	40	1					120	gld	10	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3																0
-Act 1 (N) H2H C	7	41	1					120	gld	10	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3																0
-Act 2 (N) H2H A	7	42	1					120	gld	10	Act 2 (N) Equip A	8	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
+Act 1 (N) H2H A	7	34	1					100	gld	12	Act 5 Equip B	10	Act 5 Junk	15	Act 5 Good	2																0
+Act 1 (N) H2H B	7	36	1					100	gld	12	Act 5 Equip C	10	Act 5 Junk	15	Act 5 Good	2																0
+Act 5 H2H B	7	38	1					120	gld	10	Act 1 (N) Equip A	8	Act 1 (N) Junk	15	Act 1 (N) Good	3																0
+Act 1 (N) H2H C	7	40	1					120	gld	10	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3																0
+Act 2 (N) H2H A	7	41	1					120	gld	10	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3																0
+Act 5 H2H C	7	42	1					120	gld	10	Act 2 (N) Equip A	8	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
 Act 2 (N) H2H B	7	44	1					120	gld	10	Act 2 (N) Equip B	8	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
 Act 2 (N) H2H C	7	45	1					120	gld	10	Act 2 (N) Equip B	8	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
 Act 3 (N) H2H A	7	46	1					120	gld	10	Act 3 (N) Equip A	8	Act 3 (N) Junk	15	Act 3 (N) Good	3																0
@@ -294,12 +294,12 @@ Act 3 (N) H2H C	7	50	1					120	gld	10	Act 3 (N) Equip B	8	Act 3 (N) Junk	15	Act 
 Act 4 (N) H2H A	7	51	1					120	gld	10	Act 4 (N) Equip A	8	Act 4 (N) Junk	15	Act 4 (N) Good	3																0
 Act 4 (N) H2H B	7	54	1					120	gld	10	Act 4 (N) Equip B	8	Act 4 (N) Junk	15	Act 4 (N) Good	3																0
 Act 5 (N) H2H A	7	57	1					120	gld	10	Act 5 (N) Equip A	8	Act 5 (N) Junk	15	Act 5 (N) Good	3																0
-Act 5 (N) H2H B	7	60	1					120	gld	10	Act 5 (N) Equip B	8	Act 5 (N) Junk	15	Act 5 (N) Good	3																0
-Act 5 (N) H2H C	7	62	1					120	gld	10	Act 5 (N) Equip C	8	Act 5 (N) Junk	15	Act 5 (N) Good	3																0
-Act 1 (H) H2H A	7	63	1					120	gld	10	Act 1 (H) Equip A	8	Act 1 (H) Junk	15	Act 1 (H) Good	3																0
-Act 1 (H) H2H B	7	66	1					120	gld	10	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3																0
-Act 1 (H) H2H C	7	68	1					120	gld	10	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3																0
-Act 2 (H) H2H A	7	69	1					120	gld	10	Act 2 (H) Equip A	8	Act 1 (H) Junk	15	Act 2 (H) Good	3																0
+Act 1 (H) H2H A	7	60	1					120	gld	10	Act 5 (N) Equip B	8	Act 5 (N) Junk	15	Act 5 (N) Good	3																0
+Act 1 (H) H2H B	7	62	1					120	gld	10	Act 5 (N) Equip C	8	Act 5 (N) Junk	15	Act 5 (N) Good	3																0
+Act 5 (N) H2H B	7	63	1					120	gld	10	Act 1 (H) Equip A	8	Act 1 (H) Junk	15	Act 1 (H) Good	3																0
+Act 1 (H) H2H C	7	66	1					120	gld	10	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3																0
+Act 2 (H) H2H A	7	68	1					120	gld	10	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3																0
+Act 5 (N) H2H C	7	69	1					120	gld	10	Act 2 (H) Equip A	8	Act 1 (H) Junk	15	Act 2 (H) Good	3																0
 Act 2 (H) H2H B	7	71	1					120	gld	10	Act 2 (H) Equip B	8	Act 1 (H) Junk	15	Act 2 (H) Good	3																0
 Act 2 (H) H2H C	7	73	1					120	gld	10	Act 2 (H) Equip B	8	Act 1 (H) Junk	15	Act 2 (H) Good	3																0
 Act 3 (H) H2H A	7	74	1					120	gld	10	Act 3 (H) Equip A	8	Act 1 (H) Junk	15	Act 3 (H) Good	3																0
@@ -322,12 +322,12 @@ Act 3 Cast C	8	24	1					100	gld	14	Act 3 Equip C	12	Act 3 Junk	15	Act 3 Good	2	A
 Act 4 Cast A	8	26	1					100	gld	14	Act 4 Equip A	12	Act 4 Junk	15	Act 4 Good	2	Act 4 Magic A	7														0
 Act 4 Cast B	8	29	1					100	gld	14	Act 4 Equip B	12	Act 4 Junk	15	Act 4 Good	2	Act 4 Magic B	7														0
 Act 5 Cast A	8	32	1					100	gld	12	Act 5 Equip A	10	Act 5 Junk	15	Act 5 Good	2	Act 5 Magic A	7														0
-Act 5 Cast B	8	34	1					100	gld	12	Act 5 Equip B	10	Act 5 Junk	15	Act 5 Good	2	Act 5 Magic B	7														0
-Act 5 Cast C	8	36	1					100	gld	12	Act 5 Equip C	10	Act 5 Junk	15	Act 5 Good	2	Act 5 Magic C	7														0
-Act 1 (N) Cast A	8	38	1					120	gld	10	Act 1 (N) Equip A	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Magic A	7														0
-Act 1 (N) Cast B	8	40	1					120	gld	10	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Magic B	7														0
-Act 1 (N) Cast C	8	41	1					120	gld	10	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Magic B	7														0
-Act 2 (N) Cast A	8	42	1					120	gld	10	Act 2 (N) Equip A	8	Act 2 (N) Junk	15	Act 2 (N) Good	3	Act 2 (N) Magic A	7														0
+Act 1 (N) Cast A	8	34	1					100	gld	12	Act 5 Equip B	10	Act 5 Junk	15	Act 5 Good	2	Act 5 Magic B	7														0
+Act 1 (N) Cast B	8	36	1					100	gld	12	Act 5 Equip C	10	Act 5 Junk	15	Act 5 Good	2	Act 5 Magic C	7														0
+Act 5 Cast B	8	38	1					120	gld	10	Act 1 (N) Equip A	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Magic A	7														0
+Act 1 (N) Cast C	8	40	1					120	gld	10	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Magic B	7														0
+Act 2 (N) Cast A	8	41	1					120	gld	10	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Magic B	7														0
+Act 5 Cast C	8	42	1					120	gld	10	Act 2 (N) Equip A	8	Act 2 (N) Junk	15	Act 2 (N) Good	3	Act 2 (N) Magic A	7														0
 Act 2 (N) Cast B	8	44	1					120	gld	10	Act 2 (N) Equip B	8	Act 2 (N) Junk	15	Act 2 (N) Good	3	Act 2 (N) Magic B	7														0
 Act 2 (N) Cast C	8	45	1					120	gld	10	Act 2 (N) Equip B	8	Act 2 (N) Junk	15	Act 2 (N) Good	3	Act 2 (N) Magic B	7														0
 Act 3 (N) Cast A	8	46	1					120	gld	10	Act 3 (N) Equip A	8	Act 3 (N) Junk	15	Act 3 (N) Good	3	Act 3 (N) Magic A	7														0
@@ -336,12 +336,12 @@ Act 3 (N) Cast C	8	50	1					120	gld	10	Act 3 (N) Equip B	8	Act 3 (N) Junk	15	Act
 Act 4 (N) Cast A	8	51	1					120	gld	10	Act 4 (N) Equip A	8	Act 4 (N) Junk	15	Act 4 (N) Good	3	Act 4 (N) Magic A	7														0
 Act 4 (N) Cast B	8	54	1					120	gld	10	Act 4 (N) Equip B	8	Act 4 (N) Junk	15	Act 4 (N) Good	3	Act 4 (N) Magic B	7														0
 Act 5 (N) Cast A	8	57	1					120	gld	10	Act 5 (N) Equip A	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Magic A	7														0
-Act 5 (N) Cast B	8	60	1					120	gld	10	Act 5 (N) Equip B	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Magic B	7														0
-Act 5 (N) Cast C	8	62	1					120	gld	10	Act 5 (N) Equip C	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Magic B	7														0
-Act 1 (H) Cast A	8	63	1					120	gld	10	Act 1 (H) Equip A	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Magic A	7														0
-Act 1 (H) Cast B	8	66	1					120	gld	10	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Magic B	7														0
-Act 1 (H) Cast C	8	68	1					120	gld	10	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Magic B	7														0
-Act 2 (H) Cast A	8	69	1					120	gld	10	Act 2 (H) Equip A	8	Act 1 (H) Junk	15	Act 2 (H) Good	3	Act 2 (H) Magic A	7														0
+Act 1 (H) Cast A	8	60	1					120	gld	10	Act 5 (N) Equip B	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Magic B	7														0
+Act 1 (H) Cast B	8	62	1					120	gld	10	Act 5 (N) Equip C	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Magic B	7														0
+Act 5 (N) Cast B	8	63	1					120	gld	10	Act 1 (H) Equip A	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Magic A	7														0
+Act 1 (H) Cast C	8	66	1					120	gld	10	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Magic B	7														0
+Act 2 (H) Cast A	8	68	1					120	gld	10	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Magic B	7														0
+Act 5 (N) Cast C	8	69	1					120	gld	10	Act 2 (H) Equip A	8	Act 1 (H) Junk	15	Act 2 (H) Good	3	Act 2 (H) Magic A	7														0
 Act 2 (H) Cast B	8	71	1					120	gld	10	Act 2 (H) Equip B	8	Act 1 (H) Junk	15	Act 2 (H) Good	3	Act 2 (H) Magic B	7														0
 Act 2 (H) Cast C	8	72	1					120	gld	10	Act 2 (H) Equip B	8	Act 1 (H) Junk	15	Act 2 (H) Good	3	Act 2 (H) Magic B	7														0
 Act 3 (H) Cast A	8	74	1					120	gld	10	Act 3 (H) Equip A	8	Act 1 (H) Junk	15	Act 3 (H) Good	3	Act 3 (H) Magic A	7														0
@@ -364,12 +364,12 @@ Act 3 Miss C	9	24	1					100	gld	12	Act 3 Equip C	10	Act 3 Junk	15	Act 3 Good	2	A
 Act 4 Miss A	9	26	1					100	gld	12	Act 4 Equip A	10	Act 4 Junk	15	Act 4 Good	2	Act 4 Bow A	6	Ammo	3												0
 Act 4 Miss B	9	29	1					100	gld	12	Act 4 Equip B	10	Act 4 Junk	15	Act 4 Good	2	Act 4 Bow B	6	Ammo	3												0
 Act 5 Miss A	9	32	1					100	gld	10	Act 5 Equip A	9	Act 5 Junk	15	Act 5 Good	2	Act 5 Bow A	6	Ammo	3												0
-Act 5 Miss B	9	34	1					100	gld	10	Act 5 Equip B	9	Act 5 Junk	15	Act 5 Good	2	Act 5 Bow B	6	Ammo	3												0
-Act 5 Miss C	9	36	1					100	gld	10	Act 5 Equip C	9	Act 5 Junk	15	Act 5 Good	2	Act 5 Bow B	6	Ammo	3												0
-Act 1 (N) Miss A	9	38	1					120	gld	8	Act 1 (N) Equip A	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Bow A	3	Ammo	3												0
-Act 1 (N) Miss B	9	40	1					120	gld	8	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Bow B	3	Ammo	3												0
-Act 1 (N) Miss C	9	41	1					120	gld	8	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Bow B	3	Ammo	3												0
-Act 2 (N) Miss A	9	42	1					120	gld	8	Act 2 (N) Equip A	8	Act 2 (N) Junk	15	Act 2 (N) Good	3	Act 2 (N) Bow A	3	Ammo	3												0
+Act 1 (N) Miss A	9	34	1					100	gld	10	Act 5 Equip B	9	Act 5 Junk	15	Act 5 Good	2	Act 5 Bow B	6	Ammo	3												0
+Act 1 (N) Miss B	9	36	1					100	gld	10	Act 5 Equip C	9	Act 5 Junk	15	Act 5 Good	2	Act 5 Bow B	6	Ammo	3												0
+Act 5 Miss B	9	38	1					120	gld	8	Act 1 (N) Equip A	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Bow A	3	Ammo	3												0
+Act 1 (N) Miss C	9	40	1					120	gld	8	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Bow B	3	Ammo	3												0
+Act 2 (N) Miss A	9	41	1					120	gld	8	Act 1 (N) Equip B	8	Act 1 (N) Junk	15	Act 1 (N) Good	3	Act 1 (N) Bow B	3	Ammo	3												0
+Act 5 Miss C	9	42	1					120	gld	8	Act 2 (N) Equip A	8	Act 2 (N) Junk	15	Act 2 (N) Good	3	Act 2 (N) Bow A	3	Ammo	3												0
 Act 2 (N) Miss B	9	44	1					120	gld	8	Act 2 (N) Equip B	8	Act 2 (N) Junk	15	Act 2 (N) Good	3	Act 2 (N) Bow B	3	Ammo	3												0
 Act 2 (N) Miss C	9	45	1					120	gld	8	Act 2 (N) Equip B	8	Act 2 (N) Junk	15	Act 2 (N) Good	3	Act 2 (N) Bow B	3	Ammo	3												0
 Act 3 (N) Miss A	9	46	1					120	gld	8	Act 3 (N) Equip A	8	Act 3 (N) Junk	15	Act 3 (N) Good	3	Act 3 (N) Bow A	3	Ammo	3												0
@@ -378,12 +378,12 @@ Act 3 (N) Miss C	9	50	1					120	gld	8	Act 3 (N) Equip B	8	Act 3 (N) Junk	15	Act 
 Act 4 (N) Miss A	9	51	1					120	gld	8	Act 4 (N) Equip A	8	Act 4 (N) Junk	15	Act 4 (N) Good	3	Act 4 (N) Bow A	3	Ammo	3												0
 Act 4 (N) Miss B	9	54	1					120	gld	8	Act 4 (N) Equip B	8	Act 4 (N) Junk	15	Act 4 (N) Good	3	Act 4 (N) Bow B	3	Ammo	3												0
 Act 5 (N) Miss A	9	57	1					120	gld	8	Act 5 (N) Equip A	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Bow A	3	Ammo	3												0
-Act 5 (N) Miss B	9	60	1					120	gld	8	Act 5 (N) Equip B	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Bow B	3	Ammo	3												0
-Act 5 (N) Miss C	9	62	1					120	gld	8	Act 5 (N) Equip C	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Bow B	3	Ammo	3												0
-Act 1 (H) Miss A	9	63	1					120	gld	8	Act 1 (H) Equip A	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Bow A	3	Ammo	3												0
-Act 1 (H) Miss B	9	66	1					120	gld	8	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Bow B	3	Ammo	3												0
-Act 1 (H) Miss C	9	68	1					120	gld	8	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Bow B	3	Ammo	3												0
-Act 2 (H) Miss A	9	69	1					120	gld	8	Act 2 (H) Equip A	8	Act 1 (H) Junk	15	Act 2 (H) Good	3	Act 2 (H) Bow A	3	Ammo	3												0
+Act 1 (H) Miss A	9	60	1					120	gld	8	Act 5 (N) Equip B	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Bow B	3	Ammo	3												0
+Act 1 (H) Miss B	9	62	1					120	gld	8	Act 5 (N) Equip C	8	Act 5 (N) Junk	15	Act 5 (N) Good	3	Act 5 (N) Bow B	3	Ammo	3												0
+Act 5 (N) Miss B	9	63	1					120	gld	8	Act 1 (H) Equip A	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Bow A	3	Ammo	3												0
+Act 1 (H) Miss C	9	66	1					120	gld	8	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Bow B	3	Ammo	3												0
+Act 2 (H) Miss A	9	68	1					120	gld	8	Act 1 (H) Equip B	8	Act 1 (H) Junk	15	Act 1 (H) Good	3	Act 1 (H) Bow B	3	Ammo	3												0
+Act 5 (N) Miss C	9	69	1					120	gld	8	Act 2 (H) Equip A	8	Act 1 (H) Junk	15	Act 2 (H) Good	3	Act 2 (H) Bow A	3	Ammo	3												0
 Act 2 (H) Miss B	9	71	1					120	gld	8	Act 2 (H) Equip B	8	Act 1 (H) Junk	15	Act 2 (H) Good	3	Act 2 (H) Bow B	3	Ammo	3												0
 Act 2 (H) Miss C	9	72	1					120	gld	8	Act 2 (H) Equip B	8	Act 1 (H) Junk	15	Act 2 (H) Good	3	Act 2 (H) Bow B	3	Ammo	3												0
 Act 3 (H) Miss A	9	74	1					120	gld	8	Act 3 (H) Equip A	8	Act 1 (H) Junk	15	Act 3 (H) Good	3	Act 3 (H) Bow A	3	Ammo	3												0
@@ -406,12 +406,12 @@ Act 3 Wraith C	10	24	1					75	Act 3 Good	4	Act 3 Magic C	25																				0
 Act 4 Wraith A	10	26	1					75	Act 4 Good	4	Act 4 Magic A	25																				0
 Act 4 Wraith B	10	29	1					75	Act 4 Good	4	Act 4 Magic B	25																				0
 Act 5 Wraith A	10	32	1					75	Act 5 Good	4	Act 5 Magic A	25																				0
-Act 5 Wraith B	10	34	1					75	Act 5 Good	4	Act 5 Magic B	25																				0
-Act 5 Wraith C	10	36	1					75	Act 5 Good	4	Act 5 Magic C	25																				0
-Act 1 (N) Wraith A	10	38	1					75	Act 1 (N) Good	4	Act 1 (N) Magic A	25																				0
-Act 1 (N) Wraith B	10	40	1					75	Act 1 (N) Good	4	Act 1 (N) Magic B	25																				0
-Act 1 (N) Wraith C	10	41	1					75	Act 1 (N) Good	4	Act 1 (N) Magic B	25																				0
-Act 2 (N) Wraith A	10	42	1					75	Act 2 (N) Good	4	Act 2 (N) Magic A	25																				0
+Act 1 (N) Wraith A	10	34	1					75	Act 5 Good	4	Act 5 Magic B	25																				0
+Act 1 (N) Wraith B	10	36	1					75	Act 5 Good	4	Act 5 Magic C	25																				0
+Act 5 Wraith B	10	38	1					75	Act 1 (N) Good	4	Act 1 (N) Magic A	25																				0
+Act 1 (N) Wraith C	10	40	1					75	Act 1 (N) Good	4	Act 1 (N) Magic B	25																				0
+Act 2 (N) Wraith A	10	41	1					75	Act 1 (N) Good	4	Act 1 (N) Magic B	25																				0
+Act 5 Wraith C	10	42	1					75	Act 2 (N) Good	4	Act 2 (N) Magic A	25																				0
 Act 2 (N) Wraith B	10	44	1					75	Act 2 (N) Good	4	Act 2 (N) Magic B	25																				0
 Act 2 (N) Wraith C	10	45	1					75	Act 2 (N) Good	4	Act 2 (N) Magic B	25																				0
 Act 3 (N) Wraith A	10	46	1					75	Act 3 (N) Good	4	Act 3 (N) Magic A	25																				0
@@ -420,12 +420,12 @@ Act 3 (N) Wraith C	10	50	1					75	Act 3 (N) Good	4	Act 3 (N) Magic B	25									
 Act 4 (N) Wraith A	10	51	1					75	Act 4 (N) Good	4	Act 4 (N) Magic A	25																				0
 Act 4 (N) Wraith B	10	54	1					75	Act 4 (N) Good	4	Act 4 (N) Magic B	25																				0
 Act 5 (N) Wraith A	10	57	1					75	Act 5 (N) Good	4	Act 5 (N) Magic A	25																				0
-Act 5 (N) Wraith B	10	60	1					75	Act 5 (N) Good	4	Act 5 (N) Magic B	25																				0
-Act 5 (N) Wraith C	10	62	1					75	Act 5 (N) Good	4	Act 5 (N) Magic C	25																				0
-Act 1 (H) Wraith A	10	63	1					75	Act 1 (H) Good	4	Act 1 (H) Magic A	25																				0
-Act 1 (H) Wraith B	10	66	1					75	Act 1 (H) Good	4	Act 1 (H) Magic B	25																				0
-Act 1 (H) Wraith C	10	68	1					75	Act 1 (H) Good	4	Act 1 (H) Magic B	25																				0
-Act 2 (H) Wraith A	10	69	1					75	Act 2 (H) Good	4	Act 2 (H) Magic A	25																				0
+Act 1 (H) Wraith A	10	60	1					75	Act 5 (N) Good	4	Act 5 (N) Magic B	25																				0
+Act 1 (H) Wraith B	10	62	1					75	Act 5 (N) Good	4	Act 5 (N) Magic C	25																				0
+Act 5 (N) Wraith B	10	63	1					75	Act 1 (H) Good	4	Act 1 (H) Magic A	25																				0
+Act 1 (H) Wraith C	10	66	1					75	Act 1 (H) Good	4	Act 1 (H) Magic B	25																				0
+Act 2 (H) Wraith A	10	68	1					75	Act 1 (H) Good	4	Act 1 (H) Magic B	25																				0
+Act 5 (N) Wraith C	10	69	1					75	Act 2 (H) Good	4	Act 2 (H) Magic A	25																				0
 Act 2 (H) Wraith B	10	71	1					75	Act 2 (H) Good	4	Act 2 (H) Magic B	25																				0
 Act 2 (H) Wraith C	10	72	1					75	Act 2 (H) Good	4	Act 2 (H) Magic B	25																				0
 Act 3 (H) Wraith A	10	74	1					75	Act 3 (H) Good	4	Act 3 (H) Magic A	25																				0
@@ -532,12 +532,12 @@ Act 3 Champ C	13	24	-2					0	Act 3 Citem C	1	Act 3 Cpot C	1																				0
 Act 4 Champ A	13	26	-2					0	Act 4 Citem A	1	Act 4 Cpot A	1																				0
 Act 4 Champ B	13	29	-2					0	Act 4 Citem B	1	Act 4 Cpot B	1																				0
 Act 5 Champ A	13	32	-2					0	Act 5 Citem A	1	Act 5 Cpot A	1																				0
-Act 5 Champ B	13	34	-2					0	Act 5 Citem B	1	Act 5 Cpot B	1																				0
-Act 5 Champ C	13	36	-2					0	Act 5 Citem C	1	Act 5 Cpot C	1																				0
-Act 1 (N) Champ A	13	38	-2					0	Act 1 (N) Citem A	1	Act 1 (N) Cpot A	2																				0
-Act 1 (N) Champ B	13	40	-2					0	Act 1 (N) Citem B	1	Act 1 (N) Cpot B	2																				0
-Act 1 (N) Champ C	13	41	-2					0	Act 1 (N) Citem C	1	Act 1 (N) Cpot C	2																				0
-Act 2 (N) Champ A	13	42	-2					0	Act 2 (N) Citem A	1	Act 2 (N) Cpot A	2																				0
+Act 1 (N) Champ A	13	34	-2					0	Act 5 Citem B	1	Act 5 Cpot B	1																				0
+Act 1 (N) Champ B	13	36	-2					0	Act 5 Citem C	1	Act 5 Cpot C	1																				0
+Act 5 Champ B	13	38	-2					0	Act 1 (N) Citem A	1	Act 1 (N) Cpot A	2																				0
+Act 1 (N) Champ C	13	40	-2					0	Act 1 (N) Citem B	1	Act 1 (N) Cpot B	2																				0
+Act 2 (N) Champ A	13	41	-2					0	Act 1 (N) Citem C	1	Act 1 (N) Cpot C	2																				0
+Act 5 Champ C	13	42	-2					0	Act 2 (N) Citem A	1	Act 2 (N) Cpot A	2																				0
 Act 2 (N) Champ B	13	44	-2					0	Act 2 (N) Citem B	1	Act 2 (N) Cpot B	2																				0
 Act 2 (N) Champ C	13	45	-2					0	Act 2 (N) Citem C	1	Act 2 (N) Cpot C	2																				0
 Act 3 (N) Champ A	13	46	-2					0	Act 3 (N) Citem A	1	Act 3 (N) Cpot A	2																				0
@@ -547,12 +547,12 @@ Act 4 (N) Champ A	13	51	-2					0	Act 4 (N) Citem A	1	Act 4 (N) Cpot A	2									
 Act 4 (N) Champ B	13	54	-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																				0
 Act 4 (N) Champ C	13	56	-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																				
 Act 5 (N) Champ A	13	57	-2					0	Act 5 (N) Citem A	1	Act 5 (N) Cpot A	2																				0
-Act 5 (N) Champ B	13	60	-2					0	Act 5 (N) Citem B	1	Act 5 (N) Cpot B	2																				0
-Act 5 (N) Champ C	13	62	-2					0	Act 5 (N) Citem C	1	Act 5 (N) Cpot C	2																				
-Act 1 (H) Champ A	13	63	-2					0	Act 1 (H) Citem A	1	Act 1 (H) Cpot A	3																				0
-Act 1 (H) Champ B	13	66	-2					0	Act 1 (H) Citem B	1	Act 1 (H) Cpot B	3																				0
-Act 1 (H) Champ C	13	68	-2					0	Act 1 (H) Citem C	1	Act 1 (H) Cpot C	3																				0
-Act 2 (H) Champ A	13	69	-2					0	Act 2 (H) Citem A	1	Act 2 (H) Cpot A	3																				0
+Act 1 (H) Champ A	13	60	-2					0	Act 5 (N) Citem B	1	Act 5 (N) Cpot B	2																				0
+Act 1 (H) Champ B	13	62	-2					0	Act 5 (N) Citem C	1	Act 5 (N) Cpot C	2																				
+Act 5 (N) Champ B	13	63	-2					0	Act 1 (H) Citem A	1	Act 1 (H) Cpot A	3																				0
+Act 1 (H) Champ C	13	66	-2					0	Act 1 (H) Citem B	1	Act 1 (H) Cpot B	3																				0
+Act 2 (H) Champ A	13	68	-2					0	Act 1 (H) Citem C	1	Act 1 (H) Cpot C	3																				0
+Act 5 (N) Champ C	13	69	-2					0	Act 2 (H) Citem A	1	Act 2 (H) Cpot A	3																				0
 Act 2 (H) Champ B	13	71	-2					0	Act 2 (H) Citem B	1	Act 2 (H) Cpot B	3																				0
 Act 2 (H) Champ C	13	72	-2					0	Act 2 (H) Citem C	1	Act 2 (H) Cpot C	3																				0
 Act 3 (H) Champ A	13	74	-2					0	Act 3 (H) Citem A	1	Act 3 (H) Cpot A	3																				0
@@ -617,12 +617,12 @@ Act 3 Unique C	15	24	-3					0	Act 3 Uitem C	1	Act 3 Cpot C	2																				
 Act 4 Unique A	15	26	-3					0	Act 4 Uitem A	1	Act 4 Cpot A	2																				0
 Act 4 Unique B	15	29	-3					0	Act 4 Uitem B	1	Act 4 Cpot B	2																				0
 Act 5 Unique A	15	32	-3					0	Act 5 Uitem A	1	Act 5 Cpot A	2																				0
-Act 5 Unique B	15	34	-3					0	Act 5 Uitem B	1	Act 5 Cpot B	2																				0
-Act 5 Unique C	15	36	-3					0	Act 5 Uitem C	1	Act 5 Cpot C	2																				0
-Act 1 (N) Unique A	15	38	-3					0	Act 1 (N) Uitem A	1	Act 1 (N) Cpot A	2																				0
-Act 1 (N) Unique B	15	40	-3					0	Act 1 (N) Uitem B	1	Act 1 (N) Cpot B	2																				0
-Act 1 (N) Unique C	15	41	-3					0	Act 1 (N) Uitem C	1	Act 1 (N) Cpot C	2																				0
-Act 2 (N) Unique A	15	42	-3					0	Act 2 (N) Uitem A	1	Act 2 (N) Cpot A	2																				0
+Act 1 (N) Unique A	15	34	-3					0	Act 5 Uitem B	1	Act 5 Cpot B	2																				0
+Act 1 (N) Unique B	15	36	-3					0	Act 5 Uitem C	1	Act 5 Cpot C	2																				0
+Act 5 Unique B	15	38	-3					0	Act 1 (N) Uitem A	1	Act 1 (N) Cpot A	2																				0
+Act 1 (N) Unique C	15	40	-3					0	Act 1 (N) Uitem B	1	Act 1 (N) Cpot B	2																				0
+Act 2 (N) Unique A	15	41	-3					0	Act 1 (N) Uitem C	1	Act 1 (N) Cpot C	2																				0
+Act 5 Unique C	15	42	-3					0	Act 2 (N) Uitem A	1	Act 2 (N) Cpot A	2																				0
 Act 2 (N) Unique B	15	44	-3					0	Act 2 (N) Uitem B	1	Act 2 (N) Cpot B	2																				0
 Act 2 (N) Unique C	15	45	-3					0	Act 2 (N) Uitem C	1	Act 2 (N) Cpot C	2																				0
 Act 3 (N) Unique A	15	46	-3					0	Act 3 (N) Uitem A	1	Act 3 (N) Cpot A	2																				0
@@ -631,12 +631,12 @@ Act 3 (N) Unique C	15	50	-3					0	Act 3 (N) Uitem C	1	Act 3 (N) Cpot C	2								
 Act 4 (N) Unique A	15	51	-3					0	Act 4 (N) Uitem A	1	Act 4 (N) Cpot A	2																				0
 Act 4 (N) Unique B	15	54	-3					0	Act 4 (N) Uitem B	1	Act 4 (N) Cpot B	2																				0
 Act 5 (N) Unique A	15	57	-3					0	Act 5 (N) Uitem A	1	Act 5 (N) Cpot A	2																				0
-Act 5 (N) Unique B	15	60	-3					0	Act 5 (N) Uitem B	1	Act 5 (N) Cpot B	2																				0
-Act 5 (N) Unique C	15	62	-3					0	Act 5 (N) Uitem C	1	Act 5 (N) Cpot C	2																				0
-Act 1 (H) Unique A	15	63	-3					0	Act 1 (H) Uitem A	1	Act 1 (H) Cpot A	2																				0
-Act 1 (H) Unique B	15	66	-3					0	Act 1 (H) Uitem B	1	Act 1 (H) Cpot B	2																				0
-Act 1 (H) Unique C	15	68	-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Cpot C	2																				0
-Act 2 (H) Unique A	15	69	-3					0	Act 2 (H) Uitem A	1	Act 2 (H) Cpot A	2																				0
+Act 1 (H) Unique A	15	60	-3					0	Act 5 (N) Uitem B	1	Act 5 (N) Cpot B	2																				0
+Act 1 (H) Unique B	15	62	-3					0	Act 5 (N) Uitem C	1	Act 5 (N) Cpot C	2																				0
+Act 5 (N) Unique B	15	63	-3					0	Act 1 (H) Uitem A	1	Act 1 (H) Cpot A	2																				0
+Act 1 (H) Unique C	15	66	-3					0	Act 1 (H) Uitem B	1	Act 1 (H) Cpot B	2																				0
+Act 2 (H) Unique A	15	68	-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Cpot C	2																				0
+Act 5 (N) Unique C	15	69	-3					0	Act 2 (H) Uitem A	1	Act 2 (H) Cpot A	2																				0
 Act 2 (H) Unique B	15	71	-3					0	Act 2 (H) Uitem B	1	Act 2 (H) Cpot B	2																				0
 Act 2 (H) Unique C	15	72	-3					0	Act 2 (H) Uitem C	1	Act 2 (H) Cpot C	2																				0
 Act 3 (H) Unique A	15	74	-3					0	Act 3 (H) Uitem A	1	Act 3 (H) Cpot A	2																				0
@@ -747,12 +747,12 @@ Act 4 Super A	18	26	-4	800	800	972	1024	0	Act 4 Uitem A	2	Act 4 Cpot A	2								
 Act 4 Super B	18	29	-4	800	800	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
 Act 4 Super C	18	32	-4	800	800	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
 Act 5 Super A	18	34	-4	800	800	972	1024	0	Act 5 Uitem A	2	Act 5 Cpot A	2																				0
-Act 5 Super B	18	36	-4	800	800	972	1024	0	Act 5 Uitem B	2	Act 5 Cpot B	2																				0
-Act 5 Super C	18	38	-4	800	800	972	1024	0	Act 5 Uitem C	2	Act 5 Cpot C	2																				0
-Act 1 (N) Super A	18	40	-4	800	800	972	1024	0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																				0
-Act 1 (N) Super B	18	41	-4	800	800	972	1024	0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																				0
-Act 1 (N) Super C	18	42	-4	800	800	972	1024	0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																				0
-Act 2 (N) Super A	18	44	-4	800	800	972	1024	0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																				0
+Act 1 (N) Super A	18	36	-4	800	800	972	1024	0	Act 5 Uitem B	2	Act 5 Cpot B	2																				0
+Act 1 (N) Super B	18	38	-4	800	800	972	1024	0	Act 5 Uitem C	2	Act 5 Cpot C	2																				0
+Act 5 Super B	18	40	-4	800	800	972	1024	0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																				0
+Act 1 (N) Super C	18	41	-4	800	800	972	1024	0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																				0
+Act 2 (N) Super A	18	42	-4	800	800	972	1024	0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																				0
+Act 5 Super C	18	44	-4	800	800	972	1024	0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																				0
 Act 2 (N) Super B	18	45	-4	800	800	972	1024	0	Act 2 (N) Uitem B	2	Act 2 (N) Cpot B	2																				0
 Act 2 (N) Super C	18	46	-4	800	800	972	1024	0	Act 2 (N) Uitem C	2	Act 2 (N) Cpot C	2																				0
 Act 3 (N) Super A	18	48	-4	800	800	972	1024	0	Act 3 (N) Uitem A	2	Act 3 (N) Cpot A	2																				0
@@ -762,12 +762,12 @@ Act 4 (N) Super A	18	54	-4	800	800	972	1024	0	Act 4 (N) Uitem A	2	Act 4 (N) Cpot
 Act 4 (N) Super B	18	57	-4	800	800	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
 Act 4 (N) Super C	18	60	-4	800	800	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
 Act 5 (N) Super A	18	62	-4	800	800	972	1024	0	Act 5 (N) Uitem A	2	Act 5 (N) Cpot A	2																				0
-Act 5 (N) Super B	18	63	-4	800	800	972	1024	0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																				0
-Act 5 (N) Super C	18	66	-4	800	800	972	1024	0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																				0
-Act 1 (H) Super A	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																				0
-Act 1 (H) Super B	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																				0
-Act 1 (H) Super C	18	68	-4	800	800	972	1024	0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																				0
-Act 2 (H) Super A	18	68	-4	800	800	972	1024	0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																				0
+Act 1 (H) Super A	18	63	-4	800	800	972	1024	0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																				0
+Act 1 (H) Super B	18	66	-4	800	800	972	1024	0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																				0
+Act 5 (N) Super B	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																				0
+Act 1 (H) Super C	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																				0
+Act 2 (H) Super A	18	68	-4	800	800	972	1024	0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																				0
+Act 5 (N) Super C	18	68	-4	800	800	972	1024	0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																				0
 Act 2 (H) Super B	18	69	-4	800	800	972	1024	0	Act 2 (H) Uitem B	2	Act 2 (H) Cpot B	2																				0
 Act 2 (H) Super C	18	72	-4	800	800	972	1024	0	Act 2 (H) Uitem C	2	Act 2 (H) Cpot C	2																				0
 Act 3 (H) Super A	18	73	-4	800	800	972	1024	0	Act 3 (H) Uitem A	2	Act 3 (H) Cpot A	2																				0
@@ -792,12 +792,12 @@ Act 4 Super Ax	18	26	-4	512	654	972	1024	0	Act 4 Uitem A	2	Act 4 Cpot A	2							
 Act 4 Super Bx	18	29	-4	512	654	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
 Act 4 Super Cx	18	32	-4	512	654	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
 Act 5 Super Ax	18	34	-4	512	654	972	1024	0	Act 5 Uitem A	2	Act 5 Cpot A	2																				0
-Act 5 Super Bx	18	36	-4	512	654	972	1024	0	Act 5 Uitem B	2	Act 5 Cpot B	2																				0
-Act 5 Super Cx	18	38	-4	512	654	972	1024	0	Act 5 Uitem C	2	Act 5 Cpot C	2																				0
-Act 1 (N) Super Ax	18	40	-4	512	654	972	1024	0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																				0
-Act 1 (N) Super Bx	18	41	-4	512	654	972	1024	0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																				0
-Act 1 (N) Super Cx	18	42	-4	512	654	972	1024	0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																				0
-Act 2 (N) Super Ax	18	44	-4	512	654	972	1024	0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																				0
+Act 1 (N) Super Ax	18	36	-4	512	654	972	1024	0	Act 5 Uitem B	2	Act 5 Cpot B	2																				0
+Act 1 (N) Super Bx	18	38	-4	512	654	972	1024	0	Act 5 Uitem C	2	Act 5 Cpot C	2																				0
+Act 5 Super Bx	18	40	-4	512	654	972	1024	0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																				0
+Act 1 (N) Super Cx	18	41	-4	512	654	972	1024	0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																				0
+Act 2 (N) Super Ax	18	42	-4	512	654	972	1024	0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																				0
+Act 5 Super Cx	18	44	-4	512	654	972	1024	0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																				0
 Act 2 (N) Super Bx	18	45	-4	512	654	972	1024	0	Act 2 (N) Uitem B	2	Act 2 (N) Cpot B	2																				0
 Act 2 (N) Super Cx	18	46	-4	512	654	972	1024	0	Act 2 (N) Uitem C	2	Act 2 (N) Cpot C	2																				0
 Act 3 (N) Super Ax	18	48	-4	512	654	972	1024	0	Act 3 (N) Uitem A	2	Act 3 (N) Cpot A	2																				0
@@ -807,12 +807,12 @@ Act 4 (N) Super Ax	18	54	-4	512	654	972	1024	0	Act 4 (N) Uitem A	2	Act 4 (N) Cpo
 Act 4 (N) Super Bx	18	57	-4	512	654	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
 Act 4 (N) Super Cx	18	60	-4	512	654	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
 Act 5 (N) Super Ax	18	62	-4	512	654	972	1024	0	Act 5 (N) Uitem A	2	Act 5 (N) Cpot A	2																				0
-Act 5 (N) Super Bx	18	63	-4	512	654	972	1024	0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																				0
-Act 5 (N) Super Cx	18	66	-4	512	654	972	1024	0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																				0
-Act 1 (H) Super Ax	18	67	-4	512	654	972	1024	0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																				0
-Act 1 (H) Super Bx	18	67	-4	512	654	972	1024	0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																				0
-Act 1 (H) Super Cx	18	68	-4	512	654	972	1024	0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																				0
-Act 2 (H) Super Ax	18	68	-4	512	654	972	1024	0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																				0
+Act 1 (H) Super Ax	18	63	-4	512	654	972	1024	0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																				0
+Act 1 (H) Super Bx	18	66	-4	512	654	972	1024	0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																				0
+Act 5 (N) Super Bx	18	67	-4	512	654	972	1024	0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																				0
+Act 1 (H) Super Cx	18	67	-4	512	654	972	1024	0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																				0
+Act 2 (H) Super Ax	18	68	-4	512	654	972	1024	0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																				0
+Act 5 (N) Super Cx	18	68	-4	512	654	972	1024	0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																				0
 Act 2 (H) Super Bx	18	69	-4	512	654	972	1024	0	Act 2 (H) Uitem B	2	Act 2 (H) Cpot B	2																				0
 Act 2 (H) Super Cx	18	72	-4	512	654	972	1024	0	Act 2 (H) Uitem C	2	Act 2 (H) Cpot C	2																				0
 Act 3 (H) Super Ax	18	73	-4	512	654	972	1024	0	Act 3 (H) Uitem A	2	Act 3 (H) Cpot A	2																				0
@@ -851,9 +851,9 @@ Uber Izual			1	1024				0	mbr	1																						0
 Pandemonium Key A			1	1024				0	pk1	1																						0
 Pandemonium Key B			1	1024				0	pk2	1																						0
 Pandemonium Key C			1	1024				0	pk3	1																						0
-A4 Super			1	650	800	800	1024	0	Act 4 Equip A	15	Act 4 Good	3																				0
-A4 Super (N)			1	650	800	800	1024	0	Act 4 (N) Equip A	15	Act 4 (N) Good	3																				0
-A4 Super (H)			1	650	800	800	1024	0	Act 4 (H) Equip A	15	Act 4 (H) Good	3																				0
-A5 Super			1	650	800	800	1024	0	Act 5 Equip A	15	Act 5 Good	3																				0
-A5 Super (N)			1	650	800	800	1024	0	Act 5 (N) Equip A	15	Act 5 (N) Good	3																				0
-A5 Super (H)			1	650	800	800	1024	0	Act 5 (H) Equip A	15	Act 5 (H) Good	3																				0
+A4 Super			1	650	800	800	1024	0	Act 5 Equip C	15	Act 5 Good	3																				0
+A4 Super (N)			1	650	800	800	1024	0	Act 5 (N) Equip C	15	Act 5 (N) Good	3																				0
+A4 Super (H)			1	650	800	800	1024	0	Act 5 (H) Equip C	15	Act 5 (H) Good	3																				0
+A5 Super			1	650	800	800	1024	0	Act 2 (N) Equip C	15	Act 2 (N) Good	3																				0
+A5 Super (N)			1	650	800	800	1024	0	Act 2 (H) Equip C	15	Act 2 (H) Good	3																				0
+A5 Super (H)			1	650	800	800	1024	0	Act 5 (H) Equip C	15	Act 5 (H) Good	3																				0

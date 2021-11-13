@@ -20,6 +20,7 @@ Character save files are stored in a separate folder, but you're free to move or
 * Removed all 'guest monsters' in Act IV except a few which I like.
 * Council Members are now regular monsters that spawn in certain areas of Acts III-IV.
 * Minions of Destruction are now regular monsters that spawn in certain areas of Act V.
+* Monsters in Act IV and V are higher level.
 * Added two new monster types: 
   * The **Vortex Lord** looks like Izual and spawns in Act IV and V.
   * The **Advocate** looks like the Summoner and spawns in Act V.
@@ -52,6 +53,7 @@ Original version: https://github.com/cyhyraethz/d2r-basic-qol
 * Item levels are displayed next to item names
 * Standard of Heroes can be sold to spawn dclone
 * Gheed sells herbs that can be sold to spawn dclone
+* Logo videos replaced with empty videos to speed up game launch
 
 ## Known bugs
 * The monster mercenaries sometimes get stuck and freeze in place for a minute or more. They usually recover on their own, but it takes time. A Town Portal might help. I have not found out what causes this.

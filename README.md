@@ -30,6 +30,8 @@ Character save files are stored in a separate folder, but you're free to move or
 ### Skills
 * Sorceress's Thunderstorm skill removed and replaced with **Summon Scimitar**, which summons a Flying Scimitar minion. Its stats are based on the Druid's Dire Wolf.
 * Necromancer's Teeth skill costs zero mana to cast.
+* Implements several of Carbot's suggested improvements to Barbarian skills in this video: https://www.youtube.com/watch?v=BAMNEl6cGwk
+  * 
 
 ### Mercenaries
 * Fire Iron Wolf replaced by **Penitent**, which looks like a Doom Knight and casts Bone Spear and Amplify Damage.

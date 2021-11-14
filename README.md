@@ -20,7 +20,9 @@ Character save files are stored in a separate folder, but you're free to move or
 * Removed all 'guest monsters' in Act IV except a few which I like.
 * Council Members are now regular monsters that spawn in certain areas of Acts III-IV.
 * Minions of Destruction are now regular monsters that spawn in certain areas of Act V.
+* Some monsters are slightly stronger (Doom Knights, Succubi).
 * Monsters in Act IV and V are higher level and drop better base items (up to level 45 in Normal, 75 in Nightmare). However, monsters in Act I-II Nightmare and Hell drop slightly worse base items.
+* Higher monster density in "optional" areas - i.e., those areas that you don't need to visit in order to complete the main quest (e.g. Forgotten Tower, Act III temples, Act IV hells).
 * Added two new monster types: 
   * The **Vortex Lord** looks like Izual and spawns in Act IV and V.
   * The **Advocate** looks like the Summoner and spawns in Act V.

@@ -37,9 +37,9 @@ Character save files are stored in a separate folder, but you're free to move or
   * Shout: Synergy: 2 points of damage reduction per level in Iron Skin.
   * Grim Ward: Slow enemies like Holy Freeze.
   * Battle Command: + 3 movement speed per level for the party.
-  * Leap Attack: Splash Damage.
-  * Bash: Merge with Stun.
-  * Stun: Replace with Cleave.
+  * TODO: Leap Attack: Splash Damage.
+  * TODO: Bash: Merge with Stun.
+  * TODO: Stun: Replace with Cleave.
   * Double Throw: 1% knockback per level, replenish Frenzy.
 
 ### Mercenaries

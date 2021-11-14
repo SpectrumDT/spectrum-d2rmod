@@ -31,16 +31,16 @@ Character save files are stored in a separate folder, but you're free to move or
 * Sorceress's Thunderstorm skill removed and replaced with **Summon Scimitar**, which summons a Flying Scimitar minion. Its stats are based on the Druid's Dire Wolf.
 * Necromancer's Teeth skill costs zero mana to cast.
 * Implements several of Carbot's suggested improvements to Barbarian skills in this video: https://www.youtube.com/watch?v=BAMNEl6cGwk
-  * Increased Stamina: +10 hit points and +3 regeneration per level.
+  * Increased Stamina: +10 hit points per level and +3 replenish life per level.
   * Increased Speed: +1% attack speed per level.
-  * Iron Skin: Synergy with Shout. Each gives 1 point of damage reduction per level in the other.
-  * Natural Resistance: + to max resistances.
+  * Iron Skin: Synergy: 1 point of damage reduction per level in Shout.
+  * Shout: Synergy: 2 points of damage reduction per level in Iron Skin.
   * Grim Ward: Slow enemies like Holy Freeze.
-  * Battle Command: +1 to skills per 10 levels, + movement speed for party.
+  * Battle Command: + 3 movement speed per level for the party.
   * Leap Attack: Splash Damage.
   * Bash: Merge with Stun.
   * Stun: Replace with Cleave.
-  * Double Throw: 1% knockback per level, 10% (+3 per level) to not consume stack, replenish Frenzy.
+  * Double Throw: 1% knockback per level, replenish Frenzy.
 
 ### Mercenaries
 * Fire Iron Wolf replaced by **Penitent**, which looks like a Doom Knight and casts Bone Spear and Amplify Damage.

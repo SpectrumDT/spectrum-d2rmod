@@ -35310,5 +35310,10 @@
     "id": 30004, 
     "Key": "StrSkillPhysicalDamage", 
     "enUS": "Physical Damage: %d-%d"
+  }, 
+  { 
+    "id": 30008, 
+    "Key": "EskillLifeStealFlat", 
+    "enUS": "Life Steal: ca 16%%"
   }
 ] 

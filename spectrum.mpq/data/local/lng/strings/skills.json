@@ -16458,7 +16458,7 @@
   { 
     "id": 4975, 
     "Key": "skillld150", 
-    "enUS": "use on the corpse of a slain monster\nto create a frightening totem\nthat causes nearby monsters to flee", 
+    "enUS": "use on the corpse of a slain monster\nto create a frightening totem\nthat slows nearby monsters", 
     "zhTW": "在殺死的怪物屍體上使用，造出一個嚇人的圖騰，使附近的怪物恐懼逃竄", 
     "deDE": "Erschafft aus der Leiche eines\ngetöteten Gegners ein furchterregendes\nTotem, das Gegner in der Nähe\nin die Flucht schlägt.", 
     "esES": "Convierte el cadáver de un monstruo\nen un tótem aterrador que hace\nque los monstruos cercanos huyan.", 

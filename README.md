@@ -30,6 +30,7 @@ Character save files are stored in a separate folder, but you're free to move or
 ### Skills
 * Sorceress's Thunderstorm skill removed and replaced with **Summon Scimitar**, which summons a Flying Scimitar minion. Its stats are based on the Druid's Dire Wolf.
 * Necromancer's Teeth skill costs zero mana to cast, does physical damage based on your equipped weapon and steals life.
+* Necromancer now has Spirit of Barbs instead of Iron Maiden, and the Druid vice versa. This way these skills no longer clash with other skills and become more useful for both classes.
 * Barbarian's Grim Ward now slows enemies like Holy Freeze instead of making them flee. Idea taken from Carbot in this video: https://www.youtube.com/watch?v=BAMNEl6cGwk
 
 ### Mercenaries
@@ -44,6 +45,7 @@ Character save files are stored in a separate folder, but you're free to move or
 * A number of other item types can spawn with new skill bonuses (including circlets, bone helms and scythes).
 * Improved rune drop drates.
 * Better base items drop, but fewer items drop overall.
+* Socketed items on the ground are now red instead of gray, so they can be told apart from ethereal items.
 * _Implemented by midlife-slacker_: Low-level affixes do not spawn on high-level items.
 * _Incorporates the 'Splash damage to melee' mod by deadjack_: Akara sells a charm that gives splash damage to melee attacks.
 

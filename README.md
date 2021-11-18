@@ -26,7 +26,7 @@ Character save files are stored in a separate folder, but you're free to move or
 * Monsters in Act IV and V are higher level and drop better base items (up to level 45 in Normal, 75 in Nightmare). However, monsters in Act I-II Nightmare and Hell drop slightly worse base items.
 * Higher monster density in "optional" areas - i.e., those areas that you don't need to visit in order to complete the main quest (e.g. Forgotten Tower, Act III temples, Act IV hells).
 * Added two new monster types: 
-  * The **Vortex Lord** looks like Izual and spawns in Act IV and V.
+  * The **Vortex Lord** looks like Izual and spawns in Act IV and V. Also, Izual and the Vortex Lord are larger than usual.
   * The **Advocate** looks like the Summoner and spawns in Act V.
 
 ### Skills

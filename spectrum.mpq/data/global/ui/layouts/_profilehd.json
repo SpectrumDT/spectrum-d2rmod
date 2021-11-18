@@ -300,7 +300,7 @@
         "MagicColor": "$FontColorBlue",
         "SetColor": "$FontColorGreen",
         "UniqueColor": "$FontColorGoldYellow",
-        "SocketedColor": "$FontColorGrey",
+        "SocketedColor": "$FontColorRed",
         "EtherealColor": "$FontColorGrey",
         "HealthPotionColor": "$FontColorWhite",
         "ManaPotionColor": "$FontColorWhite",

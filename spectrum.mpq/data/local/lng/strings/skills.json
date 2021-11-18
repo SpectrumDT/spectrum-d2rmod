@@ -35313,7 +35313,12 @@
   }, 
   { 
     "id": 30008, 
-    "Key": "EskillLifeStealFlat", 
-    "enUS": "Life Steal: ca 16%%"
+    "Key": "PhysicalDamageEqualsWeaponDamage", 
+    "enUS": "Physical Damage equals 50%% of Weapon Damage"
+  }, 
+  { 
+    "id": 30009, 
+    "Key": "LifeStealOnePerLevel", 
+    "enUS": "Life Steal: 1%% per skill level"
   }
 ] 

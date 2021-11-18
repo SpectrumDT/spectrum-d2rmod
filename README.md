@@ -1,5 +1,7 @@
 # Spectrum's Mod for Diablo II: Resurrected
 
+_By Spectrum (clausappel@protonmail.com)._
+
 ## How to download
 
 If you are reading this on the GitHub web page (https://github.com/SpectrumDT/spectrum-d2rmod), then click the arrow next to "Code" above and select "Download ZIP".
@@ -64,6 +66,10 @@ Original version: https://github.com/cyhyraethz/d2r-basic-qol
 ## Known bugs
 * The monster mercenaries sometimes get stuck and freeze in place for a minute or more. They usually recover on their own, but it takes time. A Town Portal might help. I have not found out what causes this.
 * Save files are compatible with regular D2R singleplayer saves and can be freely moved back and forth, with one caveat: _Character level restrictions on items_ may change when you import standard D2R characters into the mod or back. So you might suddenly be unable to use the item you were holding. This doesn't keep happening; it only happens when you switch back and forth between the mod and regular D2R.
+* Balance may be bad. I have not tested balance well. If you have any findings, please do let me know. 
+* If you find bugs, please contact me.
+
+_By Spectrum (clausappel@protonmail.com)._
 
 
 

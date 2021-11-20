@@ -83,7 +83,7 @@
 			"fields": {
                 "anchor": { "x": 0.95, "y": 0.95 },
                 "rect": { "x": 0, "y": -140 },
-				"text": "Spectrum's D2R Mod v1.4",
+				"text": "Spectrum's D2R Mod v1.6",
 				"style": {
 					"fontColor": "$FontColorGoldYellow",
 					"pointSize": "$ExtraLargeFontSize",

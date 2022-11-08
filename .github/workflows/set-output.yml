@@ -1,4 +1,4 @@
-name: Set output
+name: Set GITHUB_OUTPUT
 
 on:
   push:
@@ -7,13 +7,31 @@ on:
 
 jobs:
   set-output:
-    name: "Set output"
+    name: "Set GITHUB_OUTPUT"
     runs-on: windows-latest
     steps:
 
-      - name: Set color
+      - name: Set color - no shell specified
         id: random-color-generator
         run: echo "SELECTED_COLOR=green" >> $GITHUB_OUTPUT
         
-      - name: Get color
+      - name: Get color - no shell specified
         run: echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR }}"
+
+      - name: Set color 2 - pwsh
+        id: random-color-generator
+        shell: pwsh
+        run: echo "SELECTED_COLOR2=blue" >> $GITHUB_OUTPUT
+        
+      - name: Get color 2 - pwsh
+        shell: pwsh
+        run: echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR2 }}"
+
+      - name: Set color 3 - bash
+        id: random-color-generator
+        shell: bash
+        run: echo "SELECTED_COLOR3=red" >> $GITHUB_OUTPUT
+        
+      - name: Get color 3 - bash
+        shell: bash
+        run: echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR3 }}"

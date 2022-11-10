@@ -32,10 +32,11 @@ jobs:
           echo "HEIGHT=5;WIDTH=6" >> $env:GITHUB_OUTPUT
         
       - name: Get color
-        run: echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR }}"
-        run: echo "The height (1) is ${{ steps.size-generator1.outputs.HEIGHT }}"
-        run: echo "The width (1) is ${{ steps.size-generator1.outputs.WIDTH }}"
-        run: echo "The height (2) is ${{ steps.size-generator2.outputs.HEIGHT }}"
-        run: echo "The width (2) is ${{ steps.size-generator2.outputs.WIDTH }}"
-        run: echo "The height (3) is ${{ steps.size-generator3.outputs.HEIGHT }}"
-        run: echo "The width (3) is ${{ steps.size-generator3.outputs.WIDTH }}"
+        run: |
+          echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR }}"
+          echo "The height (1) is ${{ steps.size-generator1.outputs.HEIGHT }}"
+          echo "The width (1) is ${{ steps.size-generator1.outputs.WIDTH }}"
+          echo "The height (2) is ${{ steps.size-generator2.outputs.HEIGHT }}"
+          echo "The width (2) is ${{ steps.size-generator2.outputs.WIDTH }}"
+          echo "The height (3) is ${{ steps.size-generator3.outputs.HEIGHT }}"
+          echo "The width (3) is ${{ steps.size-generator3.outputs.WIDTH }}"

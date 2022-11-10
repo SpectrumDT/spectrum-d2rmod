@@ -11,9 +11,9 @@ jobs:
     runs-on: windows-latest
     steps:
 
-      - name: Set color - no shell specified
+      - name: Set color
         id: random-color-generator
         run: echo "SELECTED_COLOR=green" >> $env:GITHUB_OUTPUT
         
-      - name: Get color - no shell specified
+      - name: Get color
         run: echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR }}"

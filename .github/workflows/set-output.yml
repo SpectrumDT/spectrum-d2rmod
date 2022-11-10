@@ -17,21 +17,3 @@ jobs:
         
       - name: Get color - no shell specified
         run: echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR }}"
-
-      - name: Set color 2 - pwsh
-        id: random-color-generator2
-        shell: pwsh
-        run: echo "SELECTED_COLOR2=blue" >> $GITHUB_OUTPUT
-        
-      - name: Get color 2 - pwsh
-        shell: pwsh
-        run: echo "The selected color is ${{ steps.random-color-generator2.outputs.SELECTED_COLOR2 }}"
-
-      - name: Set color 3 - bash
-        id: random-color-generator3
-        shell: bash
-        run: echo "SELECTED_COLOR3=red" >> $GITHUB_OUTPUT
-        
-      - name: Get color 3 - bash
-        shell: bash
-        run: echo "The selected color is ${{ steps.random-color-generator3.outputs.SELECTED_COLOR3 }}"

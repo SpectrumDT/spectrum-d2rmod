@@ -13,7 +13,7 @@ jobs:
 
       - name: Set color - no shell specified
         id: random-color-generator
-        run: echo "SELECTED_COLOR=green" >> $GITHUB_OUTPUT
+        run: echo "SELECTED_COLOR=green" >> $env:GITHUB_OUTPUT
         
       - name: Get color - no shell specified
         run: echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR }}"

@@ -14,6 +14,28 @@ jobs:
       - name: Set color
         id: random-color-generator
         run: echo "SELECTED_COLOR=green" >> $env:GITHUB_OUTPUT
+
+      - name: Set size 1
+        id: size-generator1
+        run: | 
+          echo "HEIGHT=1" >> $env:GITHUB_OUTPUT
+          echo "WIDTH=2" >> $env:GITHUB_OUTPUT
+
+      - name: Set size 2
+        id: size-generator2
+        run: | 
+          echo "HEIGHT=3,WIDTH=4" >> $env:GITHUB_OUTPUT
+
+      - name: Set size 3
+        id: size-generator3
+        run: | 
+          echo "HEIGHT=5;WIDTH=6" >> $env:GITHUB_OUTPUT
         
       - name: Get color
         run: echo "The selected color is ${{ steps.random-color-generator.outputs.SELECTED_COLOR }}"
+        run: echo "The height (1) is ${{ steps.size-generator1.outputs.HEIGHT }}"
+        run: echo "The width (1) is ${{ steps.size-generator1.outputs.WIDTH }}"
+        run: echo "The height (2) is ${{ steps.size-generator2.outputs.HEIGHT }}"
+        run: echo "The width (2) is ${{ steps.size-generator2.outputs.WIDTH }}"
+        run: echo "The height (3) is ${{ steps.size-generator3.outputs.HEIGHT }}"
+        run: echo "The width (3) is ${{ steps.size-generator3.outputs.WIDTH }}"
